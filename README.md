@@ -1,3 +1,3 @@
 # Developer Note
 
-[Git Tricks](./Git.md)
+[Git Tricks](./git-tricks.md)
