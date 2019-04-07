@@ -6,4 +6,5 @@
 * [Mobile Development](./mobile-development/README.md)
 * [Web Development](./web-development/README.md)
 * [Design Pattern](./design-pattern/README.md)
+* [Fucking Interview](./fucking-interview/README.md)
 * [Archive](./archive/README.md)
