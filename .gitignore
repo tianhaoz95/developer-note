@@ -51,3 +51,6 @@ build-iPhoneSimulator/
 
 # Mac OS temp files
 .DS_Store
+
+# Python example environment files
+.venv
