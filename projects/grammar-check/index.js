@@ -37,7 +37,8 @@ var walk = (dir, done) => {
 
 var entry_point = () => {
     var arguments = argument_parser(process.argv.slice(2));
-    walk('./', (err, results) => {
+    var root_checker_path = arguments['p'];
+    walk(root_checker_path, (err, results) => {
         if (err) throw err;
         console.log(results);
     });
