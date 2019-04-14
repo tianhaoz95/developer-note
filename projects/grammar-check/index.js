@@ -1,5 +1,4 @@
 var argument_parser = require('minimist');
-
 var file_walker = require('./src/file_walker.js');
 
 var entry_point = () => {
