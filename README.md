@@ -1,6 +1,6 @@
 # Developer Note
 
-## Goal
+## Our Goal
 
 There are so many simple things that are just so damn hard to find. Worry not if you are among us. Here is the well organized knowledge center for developers of all sorts.
 
