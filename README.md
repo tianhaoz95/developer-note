@@ -14,3 +14,4 @@ There are so many simple things that are just so damn hard to find. Worry not if
 * [Design Pattern](./design-pattern/README.md)
 * [Fucking Interview](./fucking-interview/README.md)
 * [Archive](./archive/README.md)
+* [Cool Gadgets](./cool-gadgets/README.md)
