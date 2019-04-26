@@ -2,7 +2,7 @@
 
 ## Section 1: Corporate Proxy
 
-### If you are in the Ubuntu universe
+### If you are in the native Ubuntu universe
 ```bash
 export http_proxy=http://[your-corporate-proxy]:[port]
 export https_proxy=https://[your-corporate-proxy]:[port]
