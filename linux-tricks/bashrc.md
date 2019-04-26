@@ -24,4 +24,6 @@ setenv HTTPS_PROXY http://[your-corporate-proxy]:[port]
 alias clone_[your most used project]="git clone https://github.com/[your username]/[repository name]"
 
 alias quick_git_push="git add -A && git commit -m \"quick update\" && git push"
+
+alias save_git_password="git config credential.helper store"
 ```
