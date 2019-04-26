@@ -4,6 +4,8 @@
 
 Gather and organize the rare but useful knowledge for developers.
 
+## Why?
+
 ## Table of Content
 
 * [Git Tricks](./git-tricks/README.md)
@@ -18,3 +20,5 @@ Gather and organize the rare but useful knowledge for developers.
 * [Productivity Tools](./productivity-tools/README.md)
 * [DevOps Tricks](./dev-ops-tricks/README.md)
 * [Language Tricks](./language-tricks/README.md)
+
+## How to Contribute?
