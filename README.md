@@ -23,4 +23,3 @@ Gather and organize the rare but useful knowledge for developers.
 
 ## How to Contribute?
 
-## Who are We?
