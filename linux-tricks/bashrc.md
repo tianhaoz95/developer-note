@@ -1,6 +1,6 @@
 # Here is the sexy `.bashrc` file
 
-## Section 1: corporate proxy
+## Section 1: Corporate Proxy
 
 ### If you are in the Ubuntu universe
 ```bash
@@ -17,3 +17,5 @@ setenv https_proxy https://[your-corporate-proxy]:[port]
 setenv HTTP_PROXY http://[your-corporate-proxy]:[port]
 setenv HTTPS_PROXY http://[your-corporate-proxy]:[port]
 ```
+
+## Section 2: Git
