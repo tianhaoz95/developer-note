@@ -19,3 +19,7 @@ setenv HTTPS_PROXY http://[your-corporate-proxy]:[port]
 ```
 
 ## Section 2: Git
+
+```bash
+alias clone_[your most used project]="git clone https://github.com/[your username]/[repository name]"
+```
