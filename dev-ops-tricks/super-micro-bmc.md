@@ -1,5 +1,6 @@
 # SuperMicro BMC
 
+## How to Power Cycle
 ```bash
 ssh ADMIN@10.23.53.114                 # The default username and password for SuperMicro are ADMIN
 
