@@ -8,4 +8,4 @@
 
 ## Stay productive and don't be like Steve
 
-![Fix a bug in production](https://media.giphy.com/media/XjlNyeZp5lDri/giphy-downsized-large.gif)
+![Fixing a bug in production](https://media.giphy.com/media/XjlNyeZp5lDri/giphy-downsized-large.gif)
