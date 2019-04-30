@@ -2,7 +2,7 @@
 
 ## Goal
 
-Gather and organize the rare but useful knowledge for developers.
+Gather and organize the rare but useful knowledge.
 
 ## Why?
 
