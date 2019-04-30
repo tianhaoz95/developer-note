@@ -4,5 +4,7 @@
 
 ```bash
 pip install ipykernel
-ipython kernel install --user --name=projectname
+
+# replace your_awesome_project_name with your preferred ID
+ipython kernel install --user --name=your_awesome_project_name
 ```
