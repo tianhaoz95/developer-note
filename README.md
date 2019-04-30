@@ -6,6 +6,8 @@ Gather and organize the rare but useful knowledge.
 
 ## Why?
 
+Most developers are spending a significant amount of their time trying to find some corner use cases and they have to do it every few weeks looking for the same information simply because no one remembers it all.
+
 ## Table of Content
 
 * [Git Tricks](./git-tricks/README.md)
