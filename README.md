@@ -25,3 +25,4 @@ Most developers are spending a significant amount of their time trying to find s
 
 ## How to Contribute?
 
+For now, simply open a pull request and I will review it myself.
