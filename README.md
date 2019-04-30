@@ -1,6 +1,6 @@
 # Developer Note
 
-## Our Goal
+## Goal
 
 Gather and organize the rare but useful knowledge for developers.
 
