@@ -1,3 +1,3 @@
 # DevOps Tricks
 
-* [SuperMicro BMC](./super-micro-bmc.md)
+* [Remote Server Control](./remote-server-control/README.md)
