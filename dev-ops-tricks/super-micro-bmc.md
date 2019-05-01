@@ -1,5 +1,7 @@
 # SuperMicro BMC
 
+BMC is used to remotely control the servers. Different OEMs usually have their own BMC system.
+
 ## How to Power Cycle
 ```bash
 ssh ADMIN@10.23.53.114                 # The default username and password for SuperMicro are ADMIN
