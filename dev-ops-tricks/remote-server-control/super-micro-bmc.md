@@ -4,7 +4,7 @@ There are 3 ways to use the BMC on a SuperMicro motherboard: through vanilla SSH
 
 ## Vanilla SSH
 
-This is most likely what you are going to use. It sound primitive, but that's the beauty of it. If you are reading this, it probably means your DevOps team is pretty fucked up already which means it's unlikely that you will get sudo access or a browser on the machine you are using.
+This is most likely what you are going to use. It sound primitive, but that's the beauty of it. If you are reading this, it probably means your DevOps team is pretty fucked up already which means it's unlikely that you will get sudo access or a browser on the machine you are using, but guess what, no one can stop you from doing SSH.
 
 ### Example
 
