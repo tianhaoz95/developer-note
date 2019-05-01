@@ -26,3 +26,7 @@ Most developers are spending a significant amount of their time trying to find s
 ## How to Contribute?
 
 For now, simply open a pull request and I will review it myself.
+
+## Meme of the Day
+
+![meme of the day](https://media.giphy.com/media/Zd6DtC3tJjq39cEmbT/giphy.gif)
