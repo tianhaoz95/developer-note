@@ -1,5 +1,7 @@
 # SuperMicro BMC
 
+There are 3 ways to use the BMC on a SuperMicro motherboard: through vanilla SSH, through a CLI provided by SuperMicro, and through web browser.
+
 ## How to Power Cycle
 ```bash
 ssh ADMIN@10.23.53.114                 # The default username and password for SuperMicro are ADMIN
