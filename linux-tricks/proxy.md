@@ -4,16 +4,20 @@ The reason why we hate IT.
 
 ## Proxy in bash
 
-coming soon
+coming soon ...
 
 ## Proxy in csh
 
-coming soon
+coming soon ...
 
 ## Proxy in Docker build
 
-coming soon
+coming soon ...
 
 ## Proxy in Docker container
 
-coming soon
+coming soon ...
+
+## Proxy in NPM
+
+coming soon ...
