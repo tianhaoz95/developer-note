@@ -6,7 +6,7 @@ Gather and organize the rare but useful knowledge.
 
 ## Why?
 
-Most developers are spending a significant amount of their time trying to find some corner use cases and they have to do it every few weeks looking for the same information simply because no one remembers it all.
+Most developers are spending a significant amount of their time trying to find some corner use cases and they have to do it every few weeks looking for the same information simply because no one remembers it all. We understand that we intend to make information as accessible as possible, but still, in case you are lost, you can check out FAQ for some luck.
 
 ## Table of Content
 
