@@ -11,3 +11,4 @@ A stash for the cool things I see, but not sure where or when they will become u
 * [industry-machine-learning: industry grade machine learning projects](https://github.com/firmai/industry-machine-learning)
 * [BoTorch and Ax: making PyTorch even better](https://towardsdatascience.com/facebook-is-making-deep-learning-experimentation-easier-with-these-two-new-pytorch-based-frameworks-5e29754bb8de)
   * [BoTorch: Baysian Optimization in PyTorch](https://botorch.org/)
+  * [Ax: Adaptive experiment platform for PyTorch Machine Learning](https://www.ax.dev/)
