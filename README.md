@@ -29,4 +29,4 @@ For now, simply open a pull request and I will review it myself.
 
 ## Meme of the Day
 
-![meme of the day](https://media.giphy.com/media/kinhO5lWjUViU8YBSA/giphy.gif)
+![meme of the day](https://media.giphy.com/media/gHWaAs1YM1jmnp6bLB/giphy.gif)
