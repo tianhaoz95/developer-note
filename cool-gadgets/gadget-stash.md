@@ -13,3 +13,4 @@ A stash for the cool things I see, but not sure where or when they will become u
   * [BoTorch: Baysian Optimization in PyTorch](https://botorch.org/)
   * [Ax: Adaptive experiment platform for PyTorch Machine Learning](https://www.ax.dev/)
 * [High level overview of Spark](https://hackernoon.com/high-level-overview-of-apache-spark-c225a0a162e9)
+* [React Native Window: wait what?](https://github.com/microsoft/react-native-windows)
