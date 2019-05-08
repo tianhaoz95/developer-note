@@ -17,3 +17,4 @@ A stash for the cool things I see, but not sure where or when they will become u
 * [code-server: run VS Code in a remote server](https://github.com/cdr/code-server)
 * [NeuronBlocks: Microsoft deep learning toolkit](https://github.com/microsoft/NeuronBlocks)
 * [Vega: a cool JS visualization library](https://vega.github.io/vega/)
+* [go-perfbook: Golang performance optimization](https://github.com/dgryski/go-perfbook)
