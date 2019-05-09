@@ -19,3 +19,4 @@ A stash for the cool things I see, but not sure where or when they will become u
 * [Vega: a cool JS visualization library](https://vega.github.io/vega/)
 * [go-perfbook: Golang performance optimization](https://github.com/dgryski/go-perfbook)
 * [pysot: single object tracking (WIP)](https://github.com/STVIR/pysot)
+* [How to add google search into GitHub Pages](https://digitaldrummerj.me/blogging-on-github-part-7-adding-a-custom-google-search/)
