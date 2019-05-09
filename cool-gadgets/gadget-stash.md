@@ -18,3 +18,4 @@ A stash for the cool things I see, but not sure where or when they will become u
 * [NeuronBlocks: Microsoft deep learning toolkit](https://github.com/microsoft/NeuronBlocks)
 * [Vega: a cool JS visualization library](https://vega.github.io/vega/)
 * [go-perfbook: Golang performance optimization](https://github.com/dgryski/go-perfbook)
+* [pysot: single object tracking (WIP)](https://github.com/STVIR/pysot)
