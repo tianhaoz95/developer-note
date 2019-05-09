@@ -1,4 +1,6 @@
-# Developer Note
+# Developer Note 
+
+![logo](./asset/logo/logo_from_lineage2.jpg)
 
 ## Goal
 
