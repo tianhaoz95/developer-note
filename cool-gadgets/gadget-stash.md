@@ -22,3 +22,4 @@ A stash for the cool things I see, but not sure where or when they will become u
 - [ ] [How to add google search into GitHub Pages](https://digitaldrummerj.me/blogging-on-github-part-7-adding-a-custom-google-search/)
 - [ ] [fusuma: make slide deck on the web](https://github.com/hiroppy/fusuma)
 - [ ] [Tensorflow graphics: seems interesting, but not sure about the details yet](https://github.com/tensorflow/graphics)
+- [ ] [FUNIT: image to image translation (unsupervised) make your dog smile like you](https://github.com/NVlabs/FUNIT)
