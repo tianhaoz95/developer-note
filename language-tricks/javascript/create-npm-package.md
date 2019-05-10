@@ -4,5 +4,5 @@
 
 [Tutorial on how to create `npm` package with a `CLI`](https://medium.com/netscape/a-guide-to-create-a-nodejs-command-line-package-c2166ad0452e)
 
-https://docs.npmjs.com/files/package.json
+(`package.json` documentation)[https://docs.npmjs.com/files/package.json]
 
