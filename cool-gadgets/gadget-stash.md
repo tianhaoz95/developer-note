@@ -2,6 +2,7 @@
 
 A stash for the cool things I see, but not sure where or when they will become useful.
 
+- [ ] [comlink: web work with better user experience (not sure what does it bring)](https://github.com/GoogleChromeLabs/comlink)
 - [ ] [client: For machine learning DevOps pipeline](https://github.com/wandb/client)
 - [ ] [machine-learning-course](https://github.com/machinelearningmindset/machine-learning-course)
 - [ ] [termdash: customizable terminal dashboard](https://github.com/mum4k/termdash)
