@@ -2,6 +2,7 @@
 
 A stash for the cool things I see, but not sure where or when they will become useful.
 
+- [ ] [tensorflow2-generative-models](https://github.com/timsainb/tensorflow2-generative-models)
 - [ ] [hacker-laws: rule of thumb in computer science (boring but can be useful)](https://github.com/dwmkerr/hacker-laws)
 - [ ] [comlink: web work with better user experience (not sure what does it bring)](https://github.com/GoogleChromeLabs/comlink)
 - [ ] [client: For machine learning DevOps pipeline](https://github.com/wandb/client)
