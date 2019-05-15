@@ -2,6 +2,7 @@
 
 A stash for the cool things I see, but not sure where or when they will become useful.
 
+- [ ] [ReacType: react prototyping](https://github.com/team-reactype/ReacType)
 - [ ] [reakit: react componenet with accessibility in mind](https://github.com/reakit/reakit)
 - [ ] [tensorflow2-generative-models](https://github.com/timsainb/tensorflow2-generative-models)
 - [ ] [hacker-laws: rule of thumb in computer science (boring but can be useful)](https://github.com/dwmkerr/hacker-laws)
