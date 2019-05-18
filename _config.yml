@@ -4,3 +4,4 @@ plugins:
   - jekyll-include-cache
 
 minimal_mistakes_skin: "neon"
+title: "Jaxon's Notebook"
