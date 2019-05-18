@@ -49,6 +49,7 @@ footer:
       url: "https://instagram.com/mmistakes"
 paginate: 5
 timezone: "America/Los_Angeles"
+future: true
 defaults:
   - scope:
       path: "_posts"
