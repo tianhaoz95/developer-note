@@ -50,3 +50,14 @@ footer:
 paginate: 5
 timezone: "America/Los_Angeles"
 future: true
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
