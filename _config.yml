@@ -44,3 +44,5 @@ footer:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/mmistakes"
+paginate: 5
+timezone: "America/Los_Angeles"
