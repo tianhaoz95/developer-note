@@ -1,8 +1,11 @@
 remote_theme: "mmistakes/minimal-mistakes@4.16.3"
-
 plugins:
   - jekyll-include-cache
-
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jemoji
 minimal_mistakes_skin: "neon"
 title: "Developer Note"
 name: "Jaxon's Notebook"
