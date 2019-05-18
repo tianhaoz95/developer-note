@@ -15,3 +15,8 @@ comments:
   disqus:
     shortname: "jaxon-chiaus-developer-note"
 search: true
+author:
+  name     : "Jaxon Chiau"
+  avatar   : "/asset/logo/logo_jaxon_pornhub_style.png"
+  bio      : "Boba addict."
+  location : "San Jose, CA, USA" 
