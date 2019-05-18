@@ -19,4 +19,11 @@ author:
   name     : "Jaxon Chiau"
   avatar   : "/asset/logo/logo_jaxon_pornhub_style.png"
   bio      : "Boba addict."
-  location : "San Jose, CA, USA" 
+  location : "San Jose, CA, USA"
+  links:
+    - label: "Made Mistakes"
+      icon: "fas fa-fw fa-link"
+      url: "https://mademistakes.com"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/mmistakes"
