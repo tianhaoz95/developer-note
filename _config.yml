@@ -10,3 +10,7 @@ logo: "/asset/logo/logo_jaxon_pornhub_style.png"
 repository: "tianhaoz95/developer-note"
 read_time: true
 words_per_minute: 200
+comments:
+  provider: "disqus"
+  disqus:
+    shortname: "jaxon-chiaus-developer-note"
