@@ -3,4 +3,4 @@ remote_theme: "mmistakes/minimal-mistakes@4.16.3"
 plugins:
   - jekyll-include-cache
 
-minimal_mistakes_skin: "dark"
+minimal_mistakes_skin: "neon"
