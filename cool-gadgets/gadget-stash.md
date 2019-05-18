@@ -2,6 +2,7 @@
 
 A stash for the cool things I see, but not sure where or when they will become useful.
 
+- [ ] [logoly: A Pornhub Flavour Logo Generator](https://github.com/bestony/logoly)
 - [ ] [gitfolio: GitHub portfolio (seems pretty good)](https://github.com/imfunniee/gitfolio)
 - [ ] [DeepPiCar: budget autonomous car using cheap boards](https://towardsdatascience.com/deeppicar-part-1-102e03c83f2c)
 - [ ] [ReacType: react prototyping](https://github.com/team-reactype/ReacType)
