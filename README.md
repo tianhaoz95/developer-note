@@ -1,5 +1,3 @@
-# Developer Note 
-
 ## Goal
 
 Gather and organize the rare but useful knowledge.
