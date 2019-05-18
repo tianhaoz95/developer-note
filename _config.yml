@@ -51,7 +51,7 @@ paginate: 5
 timezone: "America/Los_Angeles"
 defaults:
   - scope:
-      path: ""
+      path: "_posts"
       type: posts
     values:
       layout: single
