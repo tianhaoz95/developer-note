@@ -63,3 +63,6 @@ paginate: 5
 paginate_path: /page:num/
 twitter:
   username: "TianhaozZhou"
+facebook:
+  app_id: 824229744625887
+  username: "tianhaozhou95"
