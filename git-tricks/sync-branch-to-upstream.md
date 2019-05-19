@@ -1,3 +1,7 @@
+---
+layout: single
+---
+
 # How to sync a branch to upstream
 
 > This example is made while working on XRT, so change the git url is necessary
