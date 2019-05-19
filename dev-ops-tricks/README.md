@@ -1,3 +1,7 @@
+---
+layout: single
+---
+
 # DevOps Tricks
 
 ## Table of Content

@@ -1,3 +1,7 @@
+---
+layout: single
+---
+
 # Remote Server Control (BMC)
 
 > We all hate it when that damn machine is in a lab that is a quarter miles away - Jaxon Chiau
