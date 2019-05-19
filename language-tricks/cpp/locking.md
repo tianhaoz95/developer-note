@@ -1,3 +1,7 @@
+---
+layout: single
+---
+
 # Locking
 
 ```cpp
