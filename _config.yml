@@ -24,6 +24,9 @@ author:
   bio      : "I like to code while drinking boba."
   location : "San Jose, CA, USA"
   links:
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/tianhao-zhou-40244010a/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/TianhaozZhou"
