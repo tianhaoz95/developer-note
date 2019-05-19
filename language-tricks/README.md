@@ -1,3 +1,7 @@
+---
+layout: single
+---
+
 # Language Tricks
 
 * [C++ Tricks](./cpp/README.md)
