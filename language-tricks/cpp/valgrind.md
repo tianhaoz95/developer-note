@@ -1,3 +1,7 @@
+---
+layout: single
+---
+
 # Valgrind
 
 ## To Run using `valgrind`
