@@ -1,3 +1,7 @@
+---
+layout: single
+---
+
 # C++ Tricks
 
 ## Table of Content
