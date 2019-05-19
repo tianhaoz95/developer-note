@@ -1,7 +1,6 @@
 remote_theme: "mmistakes/minimal-mistakes@4.16.3"
 plugins:
   - jekyll-include-cache
-  - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
   - jekyll-feed
@@ -47,7 +46,6 @@ footer:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/mmistakes"
-paginate: 5
 timezone: "America/Los_Angeles"
 future: true
 defaults:
