@@ -61,3 +61,5 @@ defaults:
       comments: true
       share: true
       related: true
+exclude:
+  - "projects"

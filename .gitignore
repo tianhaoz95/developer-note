@@ -54,3 +54,7 @@ build-iPhoneSimulator/
 
 # node.js modules
 node_modules
+
+# Jekyll files
+Gemfile.lock
+_site
