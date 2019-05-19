@@ -1,1 +1,5 @@
+---
+layout: single
+---
+
 # Online Assessment

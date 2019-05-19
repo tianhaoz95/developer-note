@@ -1,1 +1,5 @@
+---
+layout: single
+---
+
 # Interview Tricks
