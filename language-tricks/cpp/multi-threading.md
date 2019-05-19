@@ -1,3 +1,7 @@
+---
+layout: single
+---
+
 # Multi-Threading
 
 ## How to do multi-threading with class
