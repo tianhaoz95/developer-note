@@ -1,3 +1,7 @@
+---
+layout: single
+---
+
 ![logo](./asset/logo/logo_pornhub_style.png)
 
 ## Goal
