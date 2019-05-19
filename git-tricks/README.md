@@ -1,6 +1,8 @@
 ---
 layout: single
 title: Git Tricks
+comment: true
+share: true
 ---
 
 ## Table of Content
