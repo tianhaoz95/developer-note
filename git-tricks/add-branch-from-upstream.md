@@ -1,3 +1,7 @@
+---
+layout: single
+---
+
 # How to add a new branch from upstream
 
 ```bash
