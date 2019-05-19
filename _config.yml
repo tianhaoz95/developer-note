@@ -1,5 +1,6 @@
 remote_theme: "mmistakes/minimal-mistakes@4.16.3"
 plugins:
+  - jekyll-paginate
   - jekyll-include-cache
   - jekyll-sitemap
   - jekyll-gist
@@ -61,3 +62,5 @@ defaults:
       related: true
 exclude:
   - "projects"
+paginate: 5
+paginate_path: /page:num/
