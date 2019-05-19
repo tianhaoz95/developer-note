@@ -1,8 +1,7 @@
 ---
 layout: single
+title: How to add a new branch from upstream
 ---
-
-# How to add a new branch from upstream
 
 ```bash
 git remote add upstream https://github.com/Xilinx/XRT.git

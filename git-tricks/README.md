@@ -1,8 +1,7 @@
 ---
 layout: single
+title: Git Tricks
 ---
-
-# Git Tricks
 
 ## Table of Content
 
