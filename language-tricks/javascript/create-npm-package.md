@@ -1,3 +1,7 @@
+---
+layout: single
+---
+
 # Create `npm` package
 
 [Official documentation on how to create a `npm` package](https://docs.npmjs.com/creating-node-js-modules)
