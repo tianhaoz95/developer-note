@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Git Tricks
-comment: true
+comments: true
 share: true
 ---
 
