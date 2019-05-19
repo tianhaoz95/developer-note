@@ -21,7 +21,7 @@ search: true
 author:
   name     : "Jaxon Chiau"
   avatar   : "/asset/avatar/jaxon_chiau_22yo_at_yantai.png"
-  bio      : "Boba addict."
+  bio      : "I like to code while drinking boba."
   location : "San Jose, CA, USA"
   links:
     - label: "Made Mistakes"
