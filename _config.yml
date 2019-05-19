@@ -67,3 +67,8 @@ facebook:
   app_id: 824229744625887
   username: "tianhaozhou95"
 og_image: "/asset/logo/logo_pornhub_style.png"
+analytics:
+  provider: "google-gtag"
+  google:
+    tracking_id: "UA-121674883-3"
+    anonymize_ip: false # default
