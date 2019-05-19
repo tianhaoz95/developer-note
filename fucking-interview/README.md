@@ -1,1 +1,5 @@
+---
+layout: single
+---
+
 # Fucking Interview
