@@ -1,1 +1,4 @@
-# Mobile Development
+---
+title: Mobile Development
+layout: single
+---
