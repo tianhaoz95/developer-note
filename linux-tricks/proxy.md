@@ -1,4 +1,7 @@
-# Proxy
+---
+layout: single
+title: Proxy
+---
 
 The reason why we hate IT.
 
