@@ -1,8 +1,7 @@
 ---
 layout: single
+title: DevOps Tricks
 ---
-
-# DevOps Tricks
 
 ## Table of Content
 
