@@ -1,8 +1,7 @@
 ---
 layout: single
+title: Multi-process Locking
 ---
-
-# Locking
 
 ```cpp
 #include <thread>
