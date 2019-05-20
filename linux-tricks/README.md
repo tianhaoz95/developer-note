@@ -1,4 +1,7 @@
-# Linux Tricks
+---
+layout: single
+title: Linux Tricks
+---
 
 ## Table of Content
 
