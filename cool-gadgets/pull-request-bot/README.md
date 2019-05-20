@@ -1,4 +1,7 @@
-# Pull Request Bot
+---
+layout: single
+title: Pull Request Bot
+---
 
 https://octokit.github.io/rest.js/#octokit-routes-pulls-create-review
 
