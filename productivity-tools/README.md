@@ -1,4 +1,7 @@
-# Productivity Tools
+---
+layout: single
+title: Productivity Tools
+---
 
 ## Table of Content
 
