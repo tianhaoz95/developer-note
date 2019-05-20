@@ -1,4 +1,7 @@
-# Custom Resolution
+---
+layout: single
+title: Custom Resolution
+---
 
 ```bash
 # First we need to get the modeline string for xrandr
