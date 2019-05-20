@@ -1,4 +1,7 @@
-# Here is your sexy `.bashrc` file
+---
+layout: single
+title: Here is your sexy .bashrc file
+---
 
 ## Section 1: Corporate Proxy
 
