@@ -2,7 +2,7 @@
 layout: single
 author_profile: true
 toc: true
-toc_tricky: true
+toc_sticky: true
 ---
 
 ![logo](./asset/logo/logo_pornhub_style.png)
