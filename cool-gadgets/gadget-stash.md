@@ -5,6 +5,7 @@ title: Gadget Stash
 
 A stash for the cool things I see, but not sure where or when they will become useful.
 
+- [ ] [terminus: another terminal claimed to be "modern"](https://github.com/Eugeny/terminus)
 - [ ] [pythia: A modular framework for Visual Question Answering research from FAIR](https://github.com/facebookresearch/pythia)
 - [ ] [logoly: A Pornhub Flavour Logo Generator](https://github.com/bestony/logoly)
 - [ ] [gitfolio: GitHub portfolio (seems pretty good)](https://github.com/imfunniee/gitfolio)
