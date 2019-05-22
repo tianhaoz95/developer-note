@@ -43,7 +43,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore -->
-<table><tr><td align="center"><a href="http://tianhaoz95.github.io"><img src="https://avatars3.githubusercontent.com/u/16887772?v=4" width="100px;" alt="Tianhao Zhou"/><br /><sub><b>Tianhao Zhou</b></sub></a><br /><a href="#question-tianhaoz95" title="Answering Questions">💬</a> <a href="#design-tianhaoz95" title="Design">🎨</a> <a href="https://github.com/tianhaoz95/developer-note/commits?author=tianhaoz95" title="Code">💻</a> <a href="#infra-tianhaoz95" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a></td></tr></table>
+<table><tr><td align="center"><a href="http://tianhaoz95.github.io"><img src="https://avatars3.githubusercontent.com/u/16887772?v=4" width="100px;" alt="Tianhao Zhou"/><br /><sub><b>Tianhao Zhou</b></sub></a><br /><a href="#question-tianhaoz95" title="Answering Questions">💬</a> <a href="#design-tianhaoz95" title="Design">🎨</a> <a href="https://github.com/tianhaoz95/developer-note/commits?author=tianhaoz95" title="Code">💻</a> <a href="#infra-tianhaoz95" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a> <a href="#tutorial-tianhaoz95" title="Tutorials">✅</a></td></tr></table>
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
