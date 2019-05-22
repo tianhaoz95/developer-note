@@ -26,6 +26,15 @@
       "contributions": [
         "maintenance"
       ]
+    },
+    {
+      "login": "tianhaoz95-xilinx",
+      "name": "Tianhao",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/43861455?v=4",
+      "profile": "http://www.xilinx.com",
+      "contributions": [
+        "maintenance"
+      ]
     }
   ],
   "contributorsPerLine": 7,
