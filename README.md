@@ -1,4 +1,5 @@
 ---
+[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors)
 layout: single
 ---
 
@@ -34,3 +35,15 @@ For now, simply open a pull request and I will review it myself.
 ## Meme of the Day
 
 ![meme of the day](https://media.giphy.com/media/gHWaAs1YM1jmnp6bLB/giphy.gif)
+
+## Contributors
+
+Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore -->
+<table><tr><td align="center"><a href="http://tianhaoz95.github.io"><img src="https://avatars3.githubusercontent.com/u/16887772?v=4" width="100px;" alt="Tianhao Zhou"/><br /><sub><b>Tianhao Zhou</b></sub></a><br /><a href="#question-tianhaoz95" title="Answering Questions">💬</a></td></tr></table>
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
+
+This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
