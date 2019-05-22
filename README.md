@@ -1,9 +1,10 @@
 ---
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors)
 layout: single
 ---
 
 ![logo](./asset/logo/logo_pornhub_style.png)
+
+[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors)
 
 ## Goal
 
