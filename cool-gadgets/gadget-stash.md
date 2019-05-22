@@ -5,6 +5,7 @@ title: Gadget Stash
 
 A stash for the cool things I see, but not sure where or when they will become useful.
 
+- [ ] [all-contributors: honor contributors in readme](https://github.com/all-contributors/all-contributors)
 - [ ] [WebGL-Fluid-Simulation: fluid effect in browser](https://github.com/PavelDoGreat/WebGL-Fluid-Simulation)
 - [ ] [openvslam: Open source visual SLAM](https://github.com/xdspacelab/openvslam)
 - [ ] [terminus: another terminal claimed to be "modern"](https://github.com/Eugeny/terminus)
