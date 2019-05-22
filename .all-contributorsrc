@@ -17,6 +17,15 @@
         "infra",
         "tutorial"
       ]
+    },
+    {
+      "login": "AcumanyBot",
+      "name": "Acumany Bot",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/46615080?v=4",
+      "profile": "https://acumanybot.github.io",
+      "contributions": [
+        "maintenance"
+      ]
     }
   ],
   "contributorsPerLine": 7,
