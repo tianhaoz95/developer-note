@@ -1,5 +1,8 @@
 ---
 layout: single
+author_profile: true
+toc: true
+toc_tricky: true
 ---
 
 ![logo](./asset/logo/logo_pornhub_style.png)
