@@ -3,10 +3,8 @@ layout: single
 title: How to sync a branch to upstream
 ---
 
-> This example is made while working on XRT, so change the git url is necessary
-
 ```bash
-git remote add upstream https://github.com/Xilinx/XRT.git
+git remote add upstream https://github.com/[upstream username]/[upstream repository name].git
 git fetch upstream
 git checkout master
 git reset --hard upstream/master 
