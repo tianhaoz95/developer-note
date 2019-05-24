@@ -5,6 +5,8 @@ title: Gadget Stash
 
 A stash for the cool things I see, but not sure where or when they will become useful.
 
+- [ ] [Tutorial for probot](https://medium.com/ahmed-t-ali/lets-build-a-github-pro-bot-5e155cec395f)
+- [ ] [probot: utility for building GitHub app](https://probot.github.io/)
 - [ ] [all-contributors: honor contributors in readme](https://github.com/all-contributors/all-contributors)
 - [ ] [WebGL-Fluid-Simulation: fluid effect in browser](https://github.com/PavelDoGreat/WebGL-Fluid-Simulation)
 - [ ] [openvslam: Open source visual SLAM](https://github.com/xdspacelab/openvslam)
