@@ -5,6 +5,7 @@ title: Gadget Stash
 
 A stash for the cool things I see, but not sure where or when they will become useful.
 
+- [ ] [minimalRL: minimal RL implementation](https://github.com/seungeunrho/minimalRL)
 - [ ] [Tutorial for probot](https://medium.com/ahmed-t-ali/lets-build-a-github-pro-bot-5e155cec395f)
 - [ ] [probot: utility for building GitHub app](https://probot.github.io/)
 - [ ] [all-contributors: honor contributors in readme](https://github.com/all-contributors/all-contributors)
