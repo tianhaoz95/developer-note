@@ -41,3 +41,7 @@ xrandr --addmode VGA1 "1920x1080_60.00"
 # then force it with this command:
 xrandr --output VGA1 --mode "1920x1080_60.00"
 ```
+
+<br/>
+
+<iframe data-aa="1180223" src="//acceptable.a-ads.com/1180223" scrolling="no" style="border:0px; padding:0; overflow:hidden" allowtransparency="true"></iframe>
