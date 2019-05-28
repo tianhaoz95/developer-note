@@ -11,5 +11,5 @@ Cool Gadget means some cool stuff that we are exploring but not yet sure where i
 
 <br/>
 
-<iframe data-aa="1177860" src="//ad.a-ads.com/1177860?size=120x60" scrolling="no" style="width:120px; height:60px; border:0px; padding:0; overflow:hidden" allowtransparency="true"></iframe>
+<iframe data-aa="1180197" src="//acceptable.a-ads.com/1180197" scrolling="no" style="border:0px; padding:0; overflow:hidden" allowtransparency="true"></iframe>
 
