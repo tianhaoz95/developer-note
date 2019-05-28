@@ -5,6 +5,8 @@ title: Productivity Tools
 
 ## Table of Content
 
+* [GDB tricks](./gdb/README.md)
+
 * [Python Virtual Environment](./python-virtual-environment.md)
 
 * [Jupyter Notebook](./jupyter-notebook/README.md)
