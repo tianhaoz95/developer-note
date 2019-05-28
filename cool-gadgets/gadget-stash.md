@@ -5,6 +5,7 @@ title: Gadget Stash
 
 A stash for the cool things I see, but not sure where or when they will become useful.
 
+- [ ] [zdog: psudo 3D for the web, might be interesting for personal websites](https://github.com/metafizzy/zdog)
 - [ ] [xstyled: theme based CSS styling](https://github.com/smooth-code/xstyled)
 - [ ] [minimalRL: minimal RL implementation](https://github.com/seungeunrho/minimalRL)
 - [ ] [Tutorial for probot](https://medium.com/ahmed-t-ali/lets-build-a-github-pro-bot-5e155cec395f)
