@@ -5,6 +5,9 @@ title: Gadget Stash
 
 A stash for the cool things I see, but not sure where or when they will become useful.
 
+- [ ] [fabulous: VS code css bar](https://github.com/Raathigesh/fabulous)
+- [ ] [react-use: react hook](https://github.com/streamich/react-use)
+- [ ] [penrose: Create beautiful diagrams just by typing mathematical notation in plain text](https://github.com/penrose/penrose)
 - [ ] [U200 miner](https://github.com/ubimust/ETHMiner-OpenCL-FPGA-Mining-OpenCL-Accelerators-Xilinx-Alveo-U200-Serie)
 - [ ] [zdog: psudo 3D for the web, might be interesting for personal websites](https://github.com/metafizzy/zdog)
 - [ ] [xstyled: theme based CSS styling](https://github.com/smooth-code/xstyled)
