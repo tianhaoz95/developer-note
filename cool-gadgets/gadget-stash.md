@@ -5,6 +5,7 @@ title: Gadget Stash
 
 A stash for the cool things I see, but not sure where or when they will become useful.
 
+- [ ] [boden: C++ Android/IOS cross platform development framework](https://github.com/AshampooSystems/boden)
 - [ ] [fabulous: VS code css bar](https://github.com/Raathigesh/fabulous)
 - [ ] [react-use: react hook](https://github.com/streamich/react-use)
 - [ ] [penrose: Create beautiful diagrams just by typing mathematical notation in plain text](https://github.com/penrose/penrose)
