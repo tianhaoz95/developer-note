@@ -5,6 +5,7 @@ title: Gadget Stash
 
 A stash for the cool things I see, but not sure where or when they will become useful.
 
+- [ ] [v2ray-core: write your own internet](https://github.com/v2ray/v2ray-core)
 - [ ] [efficientnet: implemented in Keras](https://github.com/qubvel/efficientnet)
 - [ ] [pytorch-image-models: PyTorch image models, scripts, pretrained weights](https://github.com/rwightman/pytorch-image-models)
 - [ ] [boden: C++ Android/IOS cross platform development framework](https://github.com/AshampooSystems/boden)
