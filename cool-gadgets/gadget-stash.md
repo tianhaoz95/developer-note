@@ -5,6 +5,7 @@ title: Gadget Stash
 
 A stash for the cool things I see, but not sure where or when they will become useful.
 
+- [ ] [kedro: A Python library for building robust production-ready data and analytics pipelines](https://github.com/quantumblacklabs/kedro)
 - [ ] [emu: an alternative language to program GPU](https://github.com/calebwin/emu)
 - [ ] [v2ray-core: write your own internet](https://github.com/v2ray/v2ray-core)
 - [ ] [efficientnet: implemented in Keras](https://github.com/qubvel/efficientnet)
