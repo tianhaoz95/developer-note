@@ -5,6 +5,7 @@ title: Gadget Stash
 
 A stash for the cool things I see, but not sure where or when they will become useful.
 
+- [ ] [EverydayWechat: automated WeChat message to girlfriend(s)](https://github.com/sfyc23/EverydayWechat)
 - [ ] [entropic: a package registry for anything, but mostly javascript](https://github.com/entropic-dev/entropic)
 - [ ] [kedro: A Python library for building robust production-ready data and analytics pipelines](https://github.com/quantumblacklabs/kedro)
 - [ ] [emu: an alternative language to program GPU](https://github.com/calebwin/emu)
