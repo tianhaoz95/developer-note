@@ -5,6 +5,8 @@ title: Gadget Stash
 
 A stash for the cool things I see, but not sure where or when they will become useful.
 
+- [ ] [The-Documentation-Compendium: README guideline](https://github.com/kylelobo/The-Documentation-Compendium)
+- [ ] [GPT2: implementation with GPU support](https://github.com/ConnorJL/GPT2)
 - [ ] [EverydayWechat: automated WeChat message to girlfriend(s)](https://github.com/sfyc23/EverydayWechat)
 - [ ] [entropic: a package registry for anything, but mostly javascript](https://github.com/entropic-dev/entropic)
 - [ ] [kedro: A Python library for building robust production-ready data and analytics pipelines](https://github.com/quantumblacklabs/kedro)
