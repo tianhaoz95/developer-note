@@ -51,6 +51,23 @@ sshbook() {
 }
 ```
 
+## Initialize SSHFS
+
+```
+initsshfs() {
+	mkdir -p $SSHFS_MOUNT_DIR
+	sshfs $WORKSTATION_HOST:$SSHFS_REMOTE_DIR $SSHFS_MOUNT_DIR
+}
+
+endsshfs() {
+	diskutil unmount $MOUNT_DIR
+}
+
+export WORKSTATION_HOST="your_username@your_hostname"
+export SSHFS_MOUNT_DIR="$HOME/Desktop/workstation"
+export SSHFS_REMOTE_DIR="/path/to/remote/directory/to/share"
+```
+
 <br/>
 
 <iframe data-aa="1180220" src="//acceptable.a-ads.com/1180220" scrolling="no" style="border:0px; padding:0; overflow:hidden" allowtransparency="true"></iframe>
