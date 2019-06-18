@@ -51,7 +51,21 @@ defaultssh
 
 ```bash
 sshbook() {
-        echo "Not Implemented"
+	echo "Listing all the commonly used SSH servers:"
+	echo -e "\t 1) username@hostname_1 (description)"
+	echo -e "\t 2) username@hostname_2 (description)"
+	read -p "Which SSH server do you want to connect? " -n 1 -r
+	echo " got it :)"
+	if [[ $REPLY =~ ^[1]$ ]]
+	then
+		echo "Connecting to username@hostname_1 ..."
+		ssh username@hostname_1
+	fi
+	if [[ $REPLY =~ ^[2]$ ]]
+	then
+		echo "Connecting to username@hostname_2 ..."
+		ssh username@hostname_2
+	fi
 }
 ```
 
