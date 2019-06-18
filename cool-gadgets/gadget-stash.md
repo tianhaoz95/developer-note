@@ -5,6 +5,7 @@ title: Gadget Stash
 
 A stash for the cool things I see, but not sure where or when they will become useful.
 
+- [ ] [home-assistant: home automation IoT platform](https://github.com/home-assistant/home-assistant)
 - [ ] [faceswap: yet another impletation of deepfake](https://github.com/deepfakes/faceswap)
 - [ ] [gh-card: GitHub card as a component](https://github.com/nwtgck/gh-card)
 - [ ] [scrcpy: Display and control your Android device](https://github.com/Genymobile/scrcpy)
