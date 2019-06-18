@@ -45,6 +45,8 @@ fi
 
 ## A Warm Welcome Message
 
+The generator can be found [here](http://patorjk.com/software/taag/#p=display&f=Graffiti&t=Type%20Something%20)
+
 ```bash
 echo "  █     █░▓█████  ██▓     ▄████▄   ▒█████   ███▄ ▄███▓▓█████     ▄▄▄▄    ▄▄▄       ▄████▄   ██ ▄█▀ ▐██▌ " 
 echo " ▓█░ █ ░█░▓█   ▀ ▓██▒    ▒██▀ ▀█  ▒██▒  ██▒▓██▒▀█▀ ██▒▓█   ▀    ▓█████▄ ▒████▄    ▒██▀ ▀█   ██▄█▒  ▐██▌ " 
