@@ -15,6 +15,8 @@ title: Productivity Tools
 
 * [Vim Cheat Sheet](./vim-cheat-sheet.md)
 
+* [tmux Cheat Sheet](./tmux-cheat-sheet.md)
+
 ## Stay productive and don't be like Steve
 
 ![Fixing a bug in production](https://media.giphy.com/media/XjlNyeZp5lDri/giphy-downsized-large.gif)
