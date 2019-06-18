@@ -3,7 +3,7 @@ layout: single
 title: Here is your sexy .bashrc file
 ---
 
-## Section 1: Corporate Proxy
+## Corporate Proxy
 
 ### If you are in the native Ubuntu universe
 ```bash
@@ -21,7 +21,7 @@ setenv HTTP_PROXY http://[your-corporate-proxy]:[port]
 setenv HTTPS_PROXY http://[your-corporate-proxy]:[port]
 ```
 
-## Section 2: Git
+## Git
 
 ```bash
 alias clone_[your most used project]="git clone https://github.com/[your username]/[repository name]"
@@ -29,6 +29,18 @@ alias clone_[your most used project]="git clone https://github.com/[your usernam
 alias quick_git_push="git add -A && git commit -m \"quick update\" && git push"
 
 alias save_git_password="git config credential.helper store"
+```
+
+## Automatically Connect to SSH
+
+```bash
+read -p "Do you want to connect to username@hostname? (y)" -n 1 -r
+echo    # (optional) move to a new line
+if [[ $REPLY =~ ^[Yy]$ ]]
+then
+        echo "Connecting to username@hostname ..."
+        ssh tianhaoz.mtv.corp.google.com
+fi
 ```
 
 <br/>
