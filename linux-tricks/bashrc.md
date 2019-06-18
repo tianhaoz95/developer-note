@@ -34,12 +34,12 @@ alias save_git_password="git config credential.helper store"
 ## Automatically Connect to SSH
 
 ```bash
-read -p "Do you want to connect to username@hostname? (y)" -n 1 -r
+read -p "Do you want to connect to your_username@your_hostname? (y)" -n 1 -r
 echo    # (optional) move to a new line
 if [[ $REPLY =~ ^[Yy]$ ]]
 then
-        echo "Connecting to username@hostname ..."
-        ssh tianhaoz.mtv.corp.google.com
+        echo "Connecting to your_username@your_hostname ..."
+        ssh your_username@your_hostname
 fi
 ```
 
