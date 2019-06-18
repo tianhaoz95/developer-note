@@ -43,6 +43,14 @@ then
 fi
 ```
 
+## Customizable SSH reminder
+
+```bash
+sshbook() {
+        echo "Not Implemented"
+}
+```
+
 <br/>
 
 <iframe data-aa="1180220" src="//acceptable.a-ads.com/1180220" scrolling="no" style="border:0px; padding:0; overflow:hidden" allowtransparency="true"></iframe>
