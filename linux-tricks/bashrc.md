@@ -53,7 +53,7 @@ sshbook() {
 
 ## Initialize SSHFS
 
-```
+```bash
 initsshfs() {
 	mkdir -p $SSHFS_MOUNT_DIR
 	sshfs $WORKSTATION_HOST:$SSHFS_REMOTE_DIR $SSHFS_MOUNT_DIR
