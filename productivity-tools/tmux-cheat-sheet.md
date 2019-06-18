@@ -15,3 +15,11 @@ fi
 
 This command evaluates if the new session is both in tmux and has a ssh session 
 to attach to, and if so, connnect the new tmux seesion to the existing ssh session.
+
+## FAQ
+
+### Why shortcuts don't work?
+
+The shortcut sequence is `Control+b`, then **release both**. After releasing, type the command, for example `%` for vertial splitting or `-` for horizontal splitting.
+
+> Note: a common mistake is to press all the keys together. That is not how `tmux` works.
