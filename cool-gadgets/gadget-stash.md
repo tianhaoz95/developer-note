@@ -5,6 +5,7 @@ title: Gadget Stash
 
 A stash for the cool things I see, but not sure where or when they will become useful.
 
+- [ ] [faceswap: yet another impletation of deepfake](https://github.com/deepfakes/faceswap)
 - [ ] [gh-card: GitHub card as a component](https://github.com/nwtgck/gh-card)
 - [ ] [scrcpy: Display and control your Android device](https://github.com/Genymobile/scrcpy)
 - [ ] [The-Documentation-Compendium: README guideline](https://github.com/kylelobo/The-Documentation-Compendium)
