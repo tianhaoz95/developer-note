@@ -17,3 +17,7 @@ A good machine learning problem can be defined as:
 * You can create this with **minimal expense and time**, hopefully using languages and tools you are familiar with.
 
 * There is a way to **monetize your product** if it becomes successful.
+
+<br/>
+
+<iframe data-aa="1180202" src="//acceptable.a-ads.com/1180202" scrolling="no" style="border:0px; padding:0; overflow:hidden" allowtransparency="true"></iframe>
