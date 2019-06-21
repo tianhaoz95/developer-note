@@ -13,3 +13,7 @@ share: true
 ## Be responsible and don't be like Steve
 
 ![When you git push -f](./asset/when-you-git-push-force.gif)
+
+<br/>
+
+<iframe data-aa="1180202" src="//acceptable.a-ads.com/1180202" scrolling="no" style="border:0px; padding:0; overflow:hidden" allowtransparency="true"></iframe>
