@@ -5,6 +5,7 @@ title: Gadget Stash
 
 A stash for the cool things I see, but not sure where or when they will become useful.
 
+- [ ] [fm: best way to make podcast](https://anchor.fm/)
 - [ ] [olivia: your best AI friend](https://github.com/olivia-ai/olivia)
 - [ ] [home-assistant: home automation IoT platform](https://github.com/home-assistant/home-assistant)
 - [ ] [faceswap: yet another impletation of deepfake](https://github.com/deepfakes/faceswap)
