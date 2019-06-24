@@ -5,6 +5,7 @@ title: Gadget Stash
 
 A stash for the cool things I see, but not sure where or when they will become useful.
 
+- [ ] [XLM: PyTorch original implementation of Cross-lingual Language Model Pretraining](https://github.com/facebookresearch/XLM)
 - [ ] [keras-tuner: keras hyper parameter tuning for human](https://github.com/keras-team/keras-tuner)
 - [ ] [fm: best way to make podcast](https://anchor.fm/)
 - [ ] [olivia: your best AI friend](https://github.com/olivia-ai/olivia)
