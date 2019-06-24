@@ -5,6 +5,7 @@ title: Gadget Stash
 
 A stash for the cool things I see, but not sure where or when they will become useful.
 
+- [ ] [awesome-deep-learning: list of deep learning resources](https://github.com/ChristosChristofidis/awesome-deep-learning)
 - [ ] [gryphon: trading strategy framework](https://github.com/garethdmm/gryphon)
 - [ ] [instabot.py: Insta Bot without APIs](https://github.com/instabot-py/instabot.py)
 - [ ] [XLM: PyTorch original implementation of Cross-lingual Language Model Pretraining](https://github.com/facebookresearch/XLM)
