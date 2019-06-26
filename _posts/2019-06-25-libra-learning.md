@@ -2,8 +2,15 @@
 title:  "Libra Learning"
 published: true
 layout: single
+author_profile: true
+toc: true
+toc_sticky: true
 ---
 
-# Libra Learning
+## What is Libra?
 
-coming soon...
+## How does Libra work?
+
+## Why is Libra better than alternatives?
+
+## What does Libra enable in the future?
