@@ -5,6 +5,9 @@ title: Gadget Stash
 
 A stash for the cool things I see, but not sure where or when they will become useful.
 
+- [ ] [realsense-ros: Intel Realsense ROS interface](https://github.com/IntelRealSense/realsense-ros)
+- [ ] [grpc-go: gRPC go implementation](https://github.com/grpc/grpc-go)
+- [ ] [librdkafka: Kafka Python interface](https://github.com/edenhill/librdkafka)
 - [ ] [Libra: Facebook's crypto](https://github.com/libra/libra)
 - [ ] [awesome-deep-learning: list of deep learning resources](https://github.com/ChristosChristofidis/awesome-deep-learning)
 - [ ] [gryphon: trading strategy framework](https://github.com/garethdmm/gryphon)
