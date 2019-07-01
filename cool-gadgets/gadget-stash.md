@@ -5,6 +5,8 @@ title: Gadget Stash
 
 A stash for the cool things I see, but not sure where or when they will become useful.
 
+- [ ] [machine_learning_examples: A collection of machine learning examples and tutorials](https://github.com/lazyprogrammer/machine_learning_examples)
+- [ ] [nlp-tutorial: Natural Language Processing Tutorial for Deep Learning Researchers](https://github.com/graykode/nlp-tutorial)
 - [ ] [realsense-ros: Intel Realsense ROS interface](https://github.com/IntelRealSense/realsense-ros)
 - [ ] [grpc-go: gRPC go implementation](https://github.com/grpc/grpc-go)
 - [ ] [librdkafka: Kafka Python interface](https://github.com/edenhill/librdkafka)
