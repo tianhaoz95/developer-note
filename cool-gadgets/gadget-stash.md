@@ -5,6 +5,7 @@ title: Gadget Stash
 
 A stash for the cool things I see, but not sure where or when they will become useful.
 
+- [ ] [CycleGAN](https://github.com/junyanz/CycleGAN)
 - [ ] [awesome-deep-learning-papers](https://github.com/terryum/awesome-deep-learning-papers)
 - [ ] [machine_learning_examples: A collection of machine learning examples and tutorials](https://github.com/lazyprogrammer/machine_learning_examples)
 - [ ] [nlp-tutorial: Natural Language Processing Tutorial for Deep Learning Researchers](https://github.com/graykode/nlp-tutorial)
