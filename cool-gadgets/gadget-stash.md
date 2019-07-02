@@ -5,6 +5,7 @@ title: Gadget Stash
 
 A stash for the cool things I see, but not sure where or when they will become useful.
 
+- [ ] [Face demorphing](https://arxiv.org/pdf/1811.07665.pdf)
 - [ ] [Face aging using GAN](https://arxiv.org/pdf/1702.01983.pdf)
 - [ ] [CycleGAN](https://github.com/junyanz/CycleGAN)
 - [ ] [awesome-deep-learning-papers](https://github.com/terryum/awesome-deep-learning-papers)
