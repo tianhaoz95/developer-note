@@ -5,6 +5,7 @@ title: Gadget Stash
 
 A stash for the cool things I see, but not sure where or when they will become useful.
 
+- [ ] [The-Documentation-Compendium: how to write documentation](https://github.com/kylelobo/The-Documentation-Compendium)
 - [ ] [starGAN: face editing](https://arxiv.org/pdf/1711.09020.pdf)
 - [ ] [Face demorphing](https://arxiv.org/pdf/1811.07665.pdf)
 - [ ] [Face aging using GAN](https://arxiv.org/pdf/1702.01983.pdf)
