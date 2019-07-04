@@ -6,6 +6,7 @@ layout: single
 
 ## Table of Content
 
+* [How to upgrade `node.js`](./upgrade-node.md)
 * [How to create `npm` package](./create-npm-package.md)
 
 <br/>
