@@ -9,6 +9,7 @@ share: true
 
 * [Sync branch to upstream](./sync-branch-to-upstream.md)
 * [Add branch from upstream](./add-branch-from-upstream.md)
+* [Git Starter Tutorial](git-starter-tutorial.md)
 
 ## Be responsible and don't be like Steve
 
