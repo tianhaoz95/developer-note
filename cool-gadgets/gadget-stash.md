@@ -5,6 +5,11 @@ title: Gadget Stash
 
 A stash for the cool things I see, but not sure where or when they will become useful.
 
+- [ ] [pix2pixHD](https://github.com/NVIDIA/pix2pixHD)
+- [ ] [bokeh: Python interactive web plotting](https://github.com/bokeh/bokeh)
+- [ ] [YOLOv3-model-pruning](https://github.com/Lam1360/YOLOv3-model-pruning)
+- [ ] [apollo: open sourced auto pilot](https://github.com/ApolloAuto/apollo)
+- [ ] [LiteratureDL4Graph](https://github.com/DeepGraphLearning/LiteratureDL4Graph)
 - [ ] [The-Documentation-Compendium: how to write documentation](https://github.com/kylelobo/The-Documentation-Compendium)
 - [ ] [starGAN: face editing](https://arxiv.org/pdf/1711.09020.pdf)
 - [ ] [Face demorphing](https://arxiv.org/pdf/1811.07665.pdf)
