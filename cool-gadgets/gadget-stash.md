@@ -5,6 +5,8 @@ title: Gadget Stash
 
 A stash for the cool things I see, but not sure where or when they will become useful.
 
+- [ ] [insightface: Face Analysis Project on MXNet](https://github.com/deepinsight/insightface)
+- [ ] [python_autocomplete: Python autocomplete using deep learning](https://github.com/vpj/python_autocomplete)
 - [ ] [pix2pixHD](https://github.com/NVIDIA/pix2pixHD)
 - [ ] [bokeh: Python interactive web plotting](https://github.com/bokeh/bokeh)
 - [ ] [YOLOv3-model-pruning](https://github.com/Lam1360/YOLOv3-model-pruning)
