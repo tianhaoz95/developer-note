@@ -5,6 +5,9 @@ title: Gadget Stash
 
 A stash for the cool things I see, but not sure where or when they will become useful.
 
+- [ ] [listmonk: high performance mailing list and newletter system](https://github.com/knadh/listmonk)
+- [ ] [hermes: JS runtime that makes react native run faster on Android](https://github.com/facebook/hermes)
+- [ ] [mediapipe: Multimedia pipeline for machine learning](https://github.com/google/mediapipe)
 - [ ] [insightface: Face Analysis Project on MXNet](https://github.com/deepinsight/insightface)
 - [ ] [python_autocomplete: Python autocomplete using deep learning](https://github.com/vpj/python_autocomplete)
 - [ ] [pix2pixHD](https://github.com/NVIDIA/pix2pixHD)
