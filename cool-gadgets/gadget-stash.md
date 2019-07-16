@@ -5,6 +5,8 @@ title: Gadget Stash
 
 A stash for the cool things I see, but not sure where or when they will become useful.
 
+- [ ] [ml-agents: Unity ML agents](https://github.com/Unity-Technologies/ml-agents)
+- [ ] [realworld: example real world apps](https://github.com/gothinkster/realworld)
 - [ ] [listmonk: high performance mailing list and newletter system](https://github.com/knadh/listmonk)
 - [ ] [hermes: JS runtime that makes react native run faster on Android](https://github.com/facebook/hermes)
 - [ ] [mediapipe: Multimedia pipeline for machine learning](https://github.com/google/mediapipe)
