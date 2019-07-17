@@ -5,6 +5,8 @@ title: Gadget Stash
 
 A stash for the cool things I see, but not sure where or when they will become useful.
 
+- [ ] [TDengine: data platform for IoT](https://github.com/taosdata/TDengine)
+- [ ] [elements: pretty c++ UI library](https://github.com/cycfi/elements)
 - [ ] [ml-agents: Unity ML agents](https://github.com/Unity-Technologies/ml-agents)
 - [ ] [realworld: example real world apps](https://github.com/gothinkster/realworld)
 - [ ] [listmonk: high performance mailing list and newletter system](https://github.com/knadh/listmonk)
