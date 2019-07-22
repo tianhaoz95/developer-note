@@ -5,6 +5,7 @@ title: Gadget Stash
 
 A stash for the cool things I see, but not sure where or when they will become useful.
 
+- [ ] [regular-investing-in-box: investing ideas](https://github.com/xiaolai/regular-investing-in-box)
 - [ ] [Realistic-Neural-Talking-Head-Models: implementation of the talking syn](https://github.com/vincent-thevenin/Realistic-Neural-Talking-Head-Models)
 - [ ] [TDengine: data platform for IoT](https://github.com/taosdata/TDengine)
 - [ ] [elements: pretty c++ UI library](https://github.com/cycfi/elements)
