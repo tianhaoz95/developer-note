@@ -5,6 +5,10 @@ title: Gadget Stash
 
 A stash for the cool things I see, but not sure where or when they will become useful.
 
+- [ ] [onnxruntime: cross platform ML scoring](https://github.com/microsoft/onnxruntime)
+- [ ] [OmniNet](https://github.com/subho406/OmniNet)
+- [ ] [awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning)
+- [ ] [industry-machine-learning](https://github.com/firmai/industry-machine-learning)
 - [ ] [instapy-quickstart: guide for instagram bots in python](https://github.com/InstaPy/instapy-quickstart)
 - [ ] [regular-investing-in-box: investing ideas](https://github.com/xiaolai/regular-investing-in-box)
 - [ ] [Realistic-Neural-Talking-Head-Models: implementation of the talking syn](https://github.com/vincent-thevenin/Realistic-Neural-Talking-Head-Models)
