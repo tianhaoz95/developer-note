@@ -5,6 +5,9 @@ title: Gadget Stash
 
 A stash for the cool things I see, but not sure where or when they will become useful.
 
+- [ ] [cube.js: JS data analytics framework? WTF?](https://github.com/cube-js/cube.js)
+- [ ] [metabase: data insight for everyone](https://github.com/metabase/metabase)
+- [ ] [v language: the future?](https://github.com/vlang/v)
 - [ ] [onnxruntime: cross platform ML scoring](https://github.com/microsoft/onnxruntime)
 - [ ] [OmniNet](https://github.com/subho406/OmniNet)
 - [ ] [awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning)
