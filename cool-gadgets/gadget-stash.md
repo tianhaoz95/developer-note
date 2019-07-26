@@ -5,6 +5,7 @@ title: Gadget Stash
 
 A stash for the cool things I see, but not sure where or when they will become useful.
 
+- [ ] [cypress: a JS front-end testing framework](https://www.cypress.io/features)
 - [ ] [cube.js: JS data analytics framework? WTF?](https://github.com/cube-js/cube.js)
 - [ ] [metabase: data insight for everyone](https://github.com/metabase/metabase)
 - [ ] [v language: the future?](https://github.com/vlang/v)
