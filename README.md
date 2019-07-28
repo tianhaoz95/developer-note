@@ -5,7 +5,7 @@ toc: true
 toc_sticky: true
 ---
 
-![logo](./asset/logo/logo_pornhub_style.png)
+![logo](./asset/logo/logo_pornhub_style_transparent.png)
 
 [![All Contributors](https://img.shields.io/badge/all_contributors-6-orange.svg?style=flat-square)](#contributors)
 
