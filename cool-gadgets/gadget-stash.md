@@ -5,6 +5,10 @@ title: Gadget Stash
 
 A stash for the cool things I see, but not sure where or when they will become useful.
 
+- [ ] [gohugo: yet another static site framework](https://gohugo.io/)
+- [ ] [pytorch-image-models](https://github.com/rwightman/pytorch-image-models)
+- [ ] [Automagica: hack together job automation](https://github.com/OakwoodAI/Automagica)
+- [ ] [ipfs: Peer-to-peer hypermedia protocol](https://github.com/ipfs/ipfs)
 - [ ] [cypress: a JS front-end testing framework](https://www.cypress.io/features)
 - [ ] [cube.js: JS data analytics framework? WTF?](https://github.com/cube-js/cube.js)
 - [ ] [metabase: data insight for everyone](https://github.com/metabase/metabase)
