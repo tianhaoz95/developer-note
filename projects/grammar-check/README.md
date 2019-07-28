@@ -1,1 +1,0 @@
-# The grammar check automation

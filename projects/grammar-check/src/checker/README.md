@@ -1,1 +1,0 @@
-# Checkers are the linters for each file type
