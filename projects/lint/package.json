@@ -10,6 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@octokit/rest": "^16.28.7"
+    "@octokit/rest": "^16.28.7",
+    "write-good": "^1.0.1"
   }
 }
