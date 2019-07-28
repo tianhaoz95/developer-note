@@ -7,7 +7,7 @@ plugins:
   - jekyll-feed
   - jemoji
 minimal_mistakes_skin: "neon"
-title: "Developer Note"
+title: "Where Rare Knowledge Lives"
 name: "Jaxon's Notebook"
 logo: "/asset/logo/logo_pornhub_style_transparent.png"
 repository: "tianhaoz95/developer-note"
