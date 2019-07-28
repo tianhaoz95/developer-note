@@ -9,7 +9,7 @@ plugins:
 minimal_mistakes_skin: "neon"
 title: "Developer Note"
 name: "Jaxon's Notebook"
-logo: "/asset/logo/logo_jaxon_pornhub_style.png"
+logo: "/asset/logo/logo_pornhub_style_transparent.png"
 repository: "tianhaoz95/developer-note"
 read_time: true
 words_per_minute: 200
@@ -78,7 +78,7 @@ twitter:
 facebook:
   app_id: 824229744625887
   username: "tianhaozhou95"
-og_image: "/asset/logo/logo_pornhub_style.png"
+og_image: "/asset/logo/logo_pornhub_style_transparent.png"
 analytics:
   provider: "google-gtag"
   google:
