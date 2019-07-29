@@ -12,6 +12,7 @@ lint_lists = [
     }
 ]
 
+/*
 octokit.issues.create({
   owner: 'tianhaoz95',
   repo: 'developer-note',
@@ -25,13 +26,31 @@ octokit.issues.create({
     console.log('error!')
     console.log(err)
 })
+*/
 
-fs.readFile('../../README.md', 'utf8', function(err, contents) {
-    console.log(contents);
-})
-
-function lint_file(file_list) {
+function postReport(report) {
     return new Promise((resolve, reject) => {
 
     })
 }
+
+function lintFile(fileMeta) {
+    return new Promise((resolve, reject) => {
+        let filename = fileMeta.path
+        let fileId = fileMeta.id
+        fs.readFile(filename, 'utf8', function(err, contents) {
+            if (err) {
+                reject(err)
+            }
+            let suggestions = writeGood(contents);
+            postReport(suggestions)
+            .then((res) => {
+                resolve(res)
+            })
+            .catch((err) => {
+                reject(err)
+            })
+        })
+    })
+}
+
