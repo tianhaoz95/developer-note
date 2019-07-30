@@ -5,6 +5,8 @@ title: Gadget Stash
 
 A stash for the cool things I see, but not sure where or when they will become useful.
 
+- [ ] [outline: react project structure example](https://github.com/outline/outline)
+- [ ] [deep-learning-drizzle: reading material to get ML intuition](https://github.com/kmario23/deep-learning-drizzle)
 - [ ] [gohugo: yet another static site framework](https://gohugo.io/)
 - [ ] [pytorch-image-models](https://github.com/rwightman/pytorch-image-models)
 - [ ] [Automagica: hack together job automation](https://github.com/OakwoodAI/Automagica)
