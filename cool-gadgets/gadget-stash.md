@@ -5,6 +5,12 @@ title: Gadget Stash
 
 A stash for the cool things I see, but not sure where or when they will become useful.
 
+- [ ] [google-cloud-4-words: Google cloud product described in 4 words](https://github.com/gregsramblings/google-cloud-4-words)
+- [ ] [SlimYOLOv3](https://github.com/PengyiZhang/SlimYOLOv3)
+- [ ] [awesome-architecture: Chinese version](https://github.com/toutiaoio/awesome-architecture)
+- [ ] [Chinese-BERT-wwm: Chinese BERT, finally](https://github.com/ymcui/Chinese-BERT-wwm)
+- [ ] [learn-regex: learn regex without pain](https://github.com/ziishaned/learn-regex)
+- [ ] [fairseq: seq-to-seq toolkit from Facebook](https://github.com/pytorch/fairseq)
 - [ ] [outline: react project structure example](https://github.com/outline/outline)
 - [ ] [deep-learning-drizzle: reading material to get ML intuition](https://github.com/kmario23/deep-learning-drizzle)
 - [ ] [gohugo: yet another static site framework](https://gohugo.io/)
