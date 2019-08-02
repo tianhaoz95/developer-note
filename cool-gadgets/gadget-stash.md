@@ -5,6 +5,11 @@ title: Gadget Stash
 
 A stash for the cool things I see, but not sure where or when they will become useful.
 
+- [ ] [react-admin: Good examplefor react + graphql](https://github.com/marmelab/react-admin)
+- [ ] [UGATIT: yet another image to image](https://github.com/taki0112/UGATIT)
+- [ ] [antialiased-cnns](https://github.com/adobe/antialiased-cnns)
+- [ ] [ERNIE: lanugage understanding](https://github.com/PaddlePaddle/ERNIE)
+- [ ] [weibo_spider: crawling Weibo](https://github.com/python3xxx/weibo_spider)
 - [ ] [google-cloud-4-words: Google cloud product described in 4 words](https://github.com/gregsramblings/google-cloud-4-words)
 - [ ] [SlimYOLOv3](https://github.com/PengyiZhang/SlimYOLOv3)
 - [ ] [awesome-architecture: Chinese version](https://github.com/toutiaoio/awesome-architecture)
