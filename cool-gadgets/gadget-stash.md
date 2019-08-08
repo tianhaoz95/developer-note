@@ -5,6 +5,8 @@ title: Gadget Stash
 
 A stash for the cool things I see, but not sure where or when they will become useful.
 
+- [ ] [delta: DiDi NLP framework](https://github.com/didi/delta)
+- [ ] [TecoGAN: another GAN for detail filling](https://github.com/thunil/TecoGAN)
 - [ ] [video-object-removal: like magic, see its implementation](https://github.com/zllrunning/video-object-removal)
 - [ ] [keras-tuner: hyperparameter tuning for human](https://github.com/keras-team/keras-tuner)
 - [ ] [gitomatic: some git automation, not sure what is it yet](https://github.com/muesli/gitomatic)
