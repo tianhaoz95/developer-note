@@ -5,6 +5,8 @@ title: Gadget Stash
 
 A stash for the cool things I see, but not sure where or when they will become useful.
 
+- [ ] [mmdetection: PyTorch object detection framework](https://github.com/open-mmlab/mmdetection)
+- [ ] [handout: alternative to Jupyter notebook](https://github.com/danijar/handout)
 - [ ] [delta: DiDi NLP framework](https://github.com/didi/delta)
 - [ ] [TecoGAN: another GAN for detail filling](https://github.com/thunil/TecoGAN)
 - [ ] [video-object-removal: like magic, see its implementation](https://github.com/zllrunning/video-object-removal)
