@@ -1,6 +1,9 @@
 ---
 layout: single
 title: Jewels and Stones
+comments: true
+toc: true
+toc_sticky: true
 ---
 
 ## Question in Human Language
