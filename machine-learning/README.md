@@ -1,6 +1,7 @@
-# Machine Learning
-
-# Table of Content
+---
+layout: single
+title: Machine Learning
+---
 
 * [What defines as good machine learning problems](./good-ml-problems.md)
 

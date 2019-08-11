@@ -1,4 +1,7 @@
-# Interesting Machine Learning Projects
+---
+layout: single
+title: Interesting Machine Learning Projects
+---
 
 ## SPADE
 
