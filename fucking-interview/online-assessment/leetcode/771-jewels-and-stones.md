@@ -32,7 +32,10 @@ class Solution(object):
         :type S: str
         :rtype: int
         """
-        jdict = {j: 1 for j in J} # step 1
-        clist = [1 if s in jdict else 0 for s in S] # step 2
-        return sum(clist) # step 3 and 4
+        # step 1
+        jdict = {j: 1 for j in J}
+        # step 2
+        clist = [1 if s in jdict else 0 for s in S]
+        # step 3 and 4
+        return sum(clist)
 ```
