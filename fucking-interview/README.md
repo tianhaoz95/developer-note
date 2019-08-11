@@ -6,4 +6,4 @@ author_profile: true
 
 ## Online Assesment
 
-[Online Assesment](./online-assesment/README.md)
+[Online Assesment](./online-assessment/README.md)

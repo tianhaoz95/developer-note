@@ -3,9 +3,11 @@ layout: single
 title: Jewels and Stones
 ---
 
-## Python Version
-
 For description, please check it out on [LeetCode](https://leetcode.com/problems/jewels-and-stones/)
+
+## Sample Solutions
+
+### Python Version
 
 ```python
 class Solution(object):
