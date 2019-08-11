@@ -32,10 +32,23 @@ class Solution(object):
         :type S: str
         :rtype: int
         """
-        # step 1
+
+        """
+        step 1: convert J from a string
+        to a dict (hash table).
+        """
         jdict = {j: 1 for j in J}
-        # step 2
+        """
+        step 2: iterate through S and mark 1
+        if found in the dict 0 if not.
+        """
         clist = [1 if s in jdict else 0 for s in S]
-        # step 3 and 4
+        """
+        step 3: sum up all ones which is the
+        count of the characters in S that are
+        found in the dict.
+
+        step 4: return the count
+        """
         return sum(clist)
 ```
