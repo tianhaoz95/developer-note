@@ -7,6 +7,8 @@ toc_sticky: true
 author_profile: true
 ---
 
+![jewels all for me](./asset/jewels-all-for-me.jpg)
+
 ## Question in Human Language
 
 This question is asking how many characters from string `S` also exist in string `J`.
