@@ -72,6 +72,8 @@ profit we have seen so far.
 
 Let's assume the values in the graph are: `[3, 2, 3, 4, 5, 6, 7, 6]`.
 
+Now, let's go backwards through prices step by step and see why that gives us the maximum profit.
+
 | current index in prices | price | maximum potentail selling price | current profit | max profit        |
 | ----------------------- | ----- | ------------------------------- | -------------- | ----------------- |
 | not started             | none  | 0 (initialize)                  | 0 (initialize) | 0 (initialize)    |
