@@ -56,7 +56,9 @@ look though the entire list?). Can we do better?
 ## Thought No. 2
 
 What if YOLO, You Only Look (through the list) Once? If so, you need to remember the maximum
-and minimum **in order** where **in order** is very tricky.
+and minimum **in order** where **in order** is very tricky. We can go backwards through prices
+assuming that we always buy at current time and sell at the seen maximum and keep track of the
+global maximum profit.
 
 ### Implementations
 
