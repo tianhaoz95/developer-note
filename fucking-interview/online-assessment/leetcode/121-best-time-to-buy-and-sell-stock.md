@@ -41,7 +41,7 @@ class Solution(object):
         :rtype: int
         """
         max_profit = 0
-        for i in range(len(prices)):
+        for i in range(1, len(prices)):
             max_profit = max(max_profit, max(prices[i:]) - min(prices[:i]))
         return max_profit
 ```

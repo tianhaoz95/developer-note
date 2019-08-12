@@ -7,6 +7,14 @@ toc_sticky: true
 author_profile: true
 ---
 
+## Question in Human Language
+
+## Thought No. 1
+
+### Implementation
+
+#### Python Ver. 1
+
 ```python
 class Solution(object):
     def moveZeroes(self, nums):
