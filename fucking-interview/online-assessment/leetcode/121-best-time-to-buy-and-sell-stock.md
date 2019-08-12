@@ -98,3 +98,9 @@ class Solution(object):
         """
         return max_profit
 ```
+
+### Review
+
+Hooray! Accepted! Well done!
+
+![well done](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
