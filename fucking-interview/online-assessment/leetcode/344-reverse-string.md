@@ -29,3 +29,7 @@ class Solution(object):
             left += 1
             right -= 1
 ```
+
+## Bonus
+
+![Don't sort an array of length one lol](./asset/dont-sort-array-if-length-is-one.png)
