@@ -66,6 +66,14 @@ global maximum profit.
 
 ![prices as a graph](./asset/prices_as_a_graph.png)
 
+Let's assume that we are going backwards through the prices, and use a variable to keep track of the
+maximum potential selling price we have seen so far, another variable to keep track of the maximum
+profit we have seen so far.
+
+| Current index in prices | maximum potentail selling price | max profit     |
+| ----------------------- | ------------------------------- | -------------- |
+| Not started             | 0 (initialize)                  | 0 (initialize) |
+
 The steps are:
 1. Iterate backwards through prices
     1. Set maximum seen prices as potential selling price
