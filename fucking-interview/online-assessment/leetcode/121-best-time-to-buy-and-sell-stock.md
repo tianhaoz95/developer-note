@@ -55,7 +55,8 @@ look though the entire list?). Can we do better?
 
 ## Thought No. 2
 
-What if YOLO, You Only Look (through the list) Once?
+What if YOLO, You Only Look (through the list) Once? If so, you need to remember the maximum
+and minimum **in order** where **in order** is very tricky.
 
 ### Implementations
 
