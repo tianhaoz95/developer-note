@@ -10,3 +10,5 @@ author_profile: true
 ## Leetcode
 
 [LeetCode](./leetcode/README.md)
+
+![I do leetcode hard](./asset/leetcode-hard.jpg)
