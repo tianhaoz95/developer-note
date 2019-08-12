@@ -64,6 +64,8 @@ global maximum profit.
 
 ### Implementations
 
+![prices as a graph](./asset/prices_as_a_graph.png)
+
 The steps are:
 1. Iterate backwards through prices
     1. Set maximum seen prices as potential selling price
