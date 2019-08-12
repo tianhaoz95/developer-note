@@ -56,7 +56,7 @@ look though the entire list?). Can we do better?
 ## Thought No. 2
 
 What if YOLO, You Only Look (through the list) Once? If so, you need to remember the maximum
-and minimum **in order** where **in order** is very tricky. We can go backwards through prices
+and minimum **in order** where **in order** is very tricky. We can go **backwards** through prices
 assuming that we always buy at current time and sell at the seen maximum and keep track of the
 global maximum profit.
 
@@ -68,6 +68,11 @@ The steps are:
     2. Calculate the profit based on seen maximum and current price
     3. Update the global maximum profit
 2. Return the global maximum profit
+
+![backward?](https://media.giphy.com/media/638KU8suvbVGo/giphy.gif)
+
+> We iterate backwards because it's hard in Python3 to initialize a minimum value.
+> You can find why that is [here](https://stackoverflow.com/questions/7604966/maximum-and-minimum-values-for-ints)
 
 #### Python Ver. 1
 
