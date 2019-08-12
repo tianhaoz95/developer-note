@@ -20,13 +20,15 @@ We can iterate through all the characters in string `S` and see if this characte
 Now the problem is finding a character in a string is `O(n)` complex, which is not good. However, finding it in a hash table is `O(1)` and guess what, we
 can easily convert a string to a hashtable.
 
+### Implementations
+
 The steps are:
 1. Convert `J` from string to a hash table
 2. Iterate through `S`
 3. Count all the ones in `S` that also exist in the hash table we just generated
 4. Return the count value
 
-### Python Ver. 1
+#### Python Ver. 1
 
 ```python
 class Solution(object):
