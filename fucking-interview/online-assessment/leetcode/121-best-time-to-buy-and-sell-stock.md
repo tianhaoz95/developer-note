@@ -62,6 +62,13 @@ global maximum profit.
 
 ### Implementations
 
+The steps are:
+1. Iterate backwards through prices
+    1. Set maximum seen prices as potential selling price
+    2. Calculate the profit based on seen maximum and current price
+    3. Update the global maximum profit
+2. Return the global maximum profit
+
 #### Python Ver. 1
 
 ```python
@@ -73,8 +80,21 @@ class Solution(object):
         """
         current_max = 0
         max_profit = 0
+        """
+        step 1: iterate backwards through prices
+        """
         for p in prices[::-1]:
+            """
+            step 1.1: update seen maximum price
+            """
             current_max = max(current_max, p)
+            """
+            step 1.2: calculate current profit
+            step 1.3: update global maximum profit
+            """
             max_profit = max(current_max - p, max_profit)
+        """
+        step 2: return global maximum profit
+        """
         return max_profit
 ```
