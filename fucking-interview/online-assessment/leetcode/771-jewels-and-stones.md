@@ -4,6 +4,7 @@ title: Jewels and Stones
 comments: true
 toc: true
 toc_sticky: true
+author_profile: true
 ---
 
 ## Question in Human Language
@@ -25,7 +26,7 @@ The steps are:
 3. Count all the ones in `S` that also exist in the hash table we just generated
 4. Return the count value
 
-### Python Version
+### Python Ver. 1
 
 ```python
 class Solution(object):
