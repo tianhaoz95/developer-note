@@ -13,6 +13,8 @@ This question asks you to reverse a list **without creating a new list**.
 
 For **INHUMAN** description, please check it out on [LeetCode](https://leetcode.com/problems/reverse-string/)
 
+![reverse stirng demo](./asset/revser-string-demo.png)
+
 ```python
 class Solution(object):
     def reverseString(self, s):
