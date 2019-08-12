@@ -5,6 +5,11 @@ title: Gadget Stash
 
 A stash for the cool things I see, but not sure where or when they will become useful.
 
+- [ ] [WeChatRobot: desktop version wechat bot](https://github.com/TonyChen56/WeChatRobot)
+- [ ] [HarmonyOS: Huawei's replacement for Android](https://github.com/Awesome-HarmonyOS/HarmonyOS)
+- [ ] [mastodon: self-hosted, globally interconnected microblogging community](https://github.com/tootsuite/mastodon)
+- [ ] [LiteOS: Huawei IoT OS](https://github.com/LiteOS/LiteOS)
+- [ ] [developer-roadmap: web developer handbook](https://github.com/kamranahmedse/developer-roadmap)
 - [ ] [mmdetection: PyTorch object detection framework](https://github.com/open-mmlab/mmdetection)
 - [ ] [handout: alternative to Jupyter notebook](https://github.com/danijar/handout)
 - [ ] [delta: DiDi NLP framework](https://github.com/didi/delta)
