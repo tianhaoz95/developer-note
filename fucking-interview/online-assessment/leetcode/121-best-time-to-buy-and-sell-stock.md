@@ -70,9 +70,19 @@ Let's assume that we are going backwards through the prices, and use a variable 
 maximum potential selling price we have seen so far, another variable to keep track of the maximum
 profit we have seen so far.
 
-| Current index in prices | maximum potentail selling price | max profit     |
-| ----------------------- | ------------------------------- | -------------- |
-| Not started             | 0 (initialize)                  | 0 (initialize) |
+Let's assume the values in the graph are: `[3, 2, 3, 4, 5, 6, 7, 6]`.
+
+| current index in prices | price | maximum potentail selling price | current profit | max profit        |
+| ----------------------- | ----- | ------------------------------- | -------------- | ----------------- |
+| not started             | none  | 0 (initialize)                  | 0 (initialize) | 0 (initialize)    |
+| 7                       | 6     | 6 (because 6 > 0)               | 6 - 6 = 0      | 0                 |
+| 6                       | 7     | 7 (because 7 > 6)               | 7 - 7 = 0      | 0                 |
+| 5                       | 6     | 7 (because 7 > 6)               | 7 - 6 = 1      | 1 (because 1 > 0) |
+| 4                       | 5     | 7 (because 7 > 5)               | 7 - 5 = 2      | 2 (because 2 > 1) |
+| 3                       | 4     | 7 (because 7 > 4)               | 7 - 4 = 3      | 3 (because 3 > 2) |
+| 2                       | 3     | 7 (because 7 > 3)               | 7 - 3 = 4      | 4 (because 4 > 3) |
+| 1                       | 2     | 7 (because 7 > 2)               | 7 - 2 = 5      | 5 (because 5 > 4) |
+| 0                       | 3     | 7 (because 7 > 3)               | 7 - 3 = 4      | 5 (because 4 < 5) |
 
 The steps are:
 1. Iterate backwards through prices
