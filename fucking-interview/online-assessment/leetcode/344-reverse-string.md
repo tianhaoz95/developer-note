@@ -32,4 +32,4 @@ class Solution(object):
 
 ## Bonus
 
-![Don't sort an array of length one lol](./asset/dont-sort-array-if-length-is-one.png)
+![Linux reverse string](./asset/linux-reverse-string.jpg)
