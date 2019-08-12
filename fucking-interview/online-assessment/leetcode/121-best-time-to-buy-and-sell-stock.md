@@ -53,6 +53,8 @@ Well, although it may look like a `O(n)` complexity, it is actually a `O(n^2)` b
 `max` and `min` are of `O(n)` complexity (how can you know the maximum or minimum if you haven't
 look though the entire list?). Can we do better?
 
+![program too slow](./asset/program-too-slow.jpg)
+
 ## Thought No. 2
 
 What if YOLO, You Only Look (through the list) Once? If so, you need to remember the maximum
