@@ -54,3 +54,33 @@ class Solution(object):
         return max_dist
         
 ```
+
+```python
+class Solution(object):
+    def maxDistance(self, grid):
+        """
+        :type grid: List[List[int]]
+        :rtype: int
+        """
+        x_range = len(grid)
+        y_range = len(grid[0])
+        dp_dist_mat = [[-1 for y in range(y_range)] for x in range(x_range)]
+        direction = [(0, 1), (0, -1), (1, 0), (-1, 0)]
+        explore_queue = []
+        for x in range(x_range):
+            for y in range(y_range):
+                if grid[x][y] == 1:
+                    dp_dist_mat[x][y] = 0
+                    explore_queue.append((x, y))
+        while explore_queue:
+            x, y = explore_queue[0]
+            del explore_queue[0]
+            for dx, dy in direction:
+                nx = x + dx
+                ny = y + dy
+                if nx >= 0 and nx < x_range and ny >= 0 and ny < y_range and dp_dist_mat[nx][ny] < 0:
+                    dp_dist_mat[nx][ny] = dp_dist_mat[x][y] + 1
+                    explore_queue.append((nx, ny))
+        max_dist = max([max(dist_list) for dist_list in dp_dist_mat])
+        return max_dist if max_dist else -1
+```
