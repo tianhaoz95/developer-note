@@ -36,3 +36,5 @@ class Solution(object):
                 gcnt += len(w)
         return gcnt
 ```
+
+![acceptance](./asset/1160-find-words-that-can-be-formed-by-characters-acceptance.png)

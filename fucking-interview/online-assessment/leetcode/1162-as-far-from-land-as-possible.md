@@ -19,7 +19,7 @@ class Solution(object):
         if grid[x][y] == 0:
             return False
         return True
-        
+
     def canReachLand(self, x, y, grid, dist):
         for dx in range(dist + 1):
             dy = dist - dx
@@ -32,14 +32,14 @@ class Solution(object):
             if self.isLand(x - dx, y - dy, grid):
                     return True
         return False
-    
+
     def getMinDist(self, x, y, grid):
         bound = len(grid) + len(grid[0])
         for dist in range(bound):
             if self.canReachLand(x, y, grid, dist):
                 return dist
         return -1
-    
+
     def maxDistance(self, grid):
         """
         :type grid: List[List[int]]
@@ -52,7 +52,7 @@ class Solution(object):
                     min_dist = self.getMinDist(x, y, grid)
                     max_dist = max(max_dist, min_dist)
         return max_dist
-        
+
 ```
 
 ```python
@@ -84,3 +84,5 @@ class Solution(object):
         max_dist = max([max(dist_list) for dist_list in dp_dist_mat])
         return max_dist if max_dist else -1
 ```
+
+![acceptance](./asset/1162-as-far-from-land-as-possible-acceptance.png)

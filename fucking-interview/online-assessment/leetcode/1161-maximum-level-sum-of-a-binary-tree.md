@@ -26,7 +26,7 @@ class Solution(object):
             if r.right:
                 next_roots.append(r.right)
         return next_roots, lvl_sum
-        
+
     def maxLevelSum(self, root):
         """
         :type root: TreeNode
@@ -44,3 +44,5 @@ class Solution(object):
                 max_lvl = current_lvl
         return max_lvl
 ```
+
+![acceptance](./asset/1161-maximum-level-sum-of-a-binary-tree-acceptance.png)
