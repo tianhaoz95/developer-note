@@ -15,7 +15,19 @@ For **INHUMAN** description, please check it out on [LeetCode](https://leetcode.
 
 ## Thought No. 1
 
+Hmmm... it seems that we can simply sum up each level and find the maximum.
+
 ### Implementation
+
+The steps are:
+1. Implement a function that sums up all the elements in a level and output all the nodes in the next level.
+2. While the next level nodes outputed by the previous level is not empty.
+    1. Use our function to calculate the sum of current level.
+    2. Use our function to calculate the nodes in the next level.
+    3. Update next level nodes with the output from step 2.2.
+    4. Update the global maximum sum and level with the output from step 2.1.
+    5. Update the current level ID.
+3. Return the global maximum level number.
 
 #### Python Ver. 1
 
