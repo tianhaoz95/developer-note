@@ -1,6 +1,7 @@
 jobs:
     include:
-     - stage: placeholder
-       language: node_js
+     - stage: Index pages to Algolia
+       language: ruby
        script: |
-        echo NOT IMPLEMENTED
+        bundle install
+        bundle exec jekyll algolia
