@@ -16,7 +16,16 @@ For **INHUMAN** description, please check it out on [LeetCode](https://leetcode.
 
 ## Thought No. 1
 
+What if we iterate through all the locations in the water and find where the nearest island is for each of them, and find the maximum?
+
 ### Implementation
+
+The steps are:
+1. Iterate through the `grid`.
+    1. If the location is a water.
+        1. Do a DFS to find where the nearest island is.
+        2. Update the global maximum distance with this current distance.
+2. Return the global maximum distance.
 
 #### Python Ver. 1
 
@@ -65,12 +74,26 @@ class Solution(object):
                     min_dist = self.getMinDist(x, y, grid)
                     max_dist = max(max_dist, min_dist)
         return max_dist
-
 ```
+
+### Review
+
+As you have probably noticed already, this results in a `time limit exceeded`. Let's first take a look at the complexity of this solution.
+When we iterate through all the water location, it is `O(n)` if the size of `grid` is `n`, and when we do the `DFS`, the worst case is to
+look over the entire `grid` which is another `O(n)` inside a `O(n)`, making this solution `O(n^2)`. Can we make it better? I don't see any
+signs of using binary search like algorithm, so it's probably a `O(n)` problem. Hmmm... `O(n)`? I smell `DP` and `BFS`.
 
 ## Thought No. 2
 
+Instead of going from water, we can go from islands and draw a "distance map", and find the maximum in the "distance map".
+
 ### Implementation
+
+The steps are:
+1. Construct a "distance map" with the size of `grid` and initialize it with `-1`.
+2. Iterate through `grid`.
+    1. If see a island, do a `BFS` using a queue for ordereing and "distance map" for memory.
+3. Return the maximum value in the "distance map".
 
 #### Python Ver. 1
 
@@ -103,5 +126,9 @@ class Solution(object):
         max_dist = max([max(dist_list) for dist_list in dp_dist_mat])
         return max_dist if max_dist else -1
 ```
+
+### Review
+
+Well done!
 
 ![acceptance](./asset/1162-as-far-from-land-as-possible-acceptance.png)

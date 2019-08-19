@@ -69,4 +69,8 @@ class Solution(object):
         return max_lvl
 ```
 
+### Review
+
+Well done!
+
 ![acceptance](./asset/1161-maximum-level-sum-of-a-binary-tree-acceptance.png)
