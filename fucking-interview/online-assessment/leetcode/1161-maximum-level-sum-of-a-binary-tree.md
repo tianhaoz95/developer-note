@@ -7,6 +7,18 @@ toc_sticky: true
 author_profile: true
 ---
 
+## Question in Human Language
+
+In a binary tree, which level has the maximum sum (for ties, the shallow level wins)?
+
+For **INHUMAN** description, please check it out on [LeetCode](https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/)
+
+## Thought No. 1
+
+### Implementation
+
+#### Python Ver. 1
+
 ```python
 # Definition for a binary tree node.
 # class TreeNode(object):

@@ -7,6 +7,19 @@ toc_sticky: true
 author_profile: true
 ---
 
+## Question in Human Language
+
+Where is the worst place you can fall into a ocean? In a matrix of 1s and 0s, 1s are islands.
+Which 0 has the longest distance to the nearest island, and what is that distance?
+
+For **INHUMAN** description, please check it out on [LeetCode](https://leetcode.com/problems/as-far-from-land-as-possible/)
+
+## Thought No. 1
+
+### Implementation
+
+#### Python Ver. 1
+
 ```python
 class Solution(object):
     def isLand(self, x, y, grid):
@@ -54,6 +67,12 @@ class Solution(object):
         return max_dist
 
 ```
+
+## Thought No. 2
+
+### Implementation
+
+#### Python Ver. 1
 
 ```python
 class Solution(object):
