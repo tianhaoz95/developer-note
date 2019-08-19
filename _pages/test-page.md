@@ -1,6 +1,5 @@
 ---
 layout: single
-permalink: /test-page
 excerpt: "this is a test page"
 ---
 
