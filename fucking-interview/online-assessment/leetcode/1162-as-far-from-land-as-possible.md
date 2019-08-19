@@ -14,6 +14,8 @@ Which 0 has the longest distance to the nearest island, and what is that distanc
 
 For **INHUMAN** description, please check it out on [LeetCode](https://leetcode.com/problems/as-far-from-land-as-possible/)
 
+![swimming dog](https://media.giphy.com/media/oX9nVBEBvIMYHvnspF/giphy.gif)
+
 ## Thought No. 1
 
 What if we iterate through all the locations in the water and find where the nearest island is for each of them, and find the maximum?
@@ -78,7 +80,11 @@ class Solution(object):
 
 ### Review
 
-As you have probably noticed already, this results in a `time limit exceeded`. Let's first take a look at the complexity of this solution.
+As you have probably noticed already, this results in a `time limit exceeded`. 
+
+![not fast](https://media.giphy.com/media/9KorRVD13syoU/giphy.gif)
+
+Let's first take a look at the complexity of this solution.
 When we iterate through all the water location, it is `O(n)` if the size of `grid` is `n`, and when we do the `DFS`, the worst case is to
 look over the entire `grid` which is another `O(n)` inside a `O(n)`, making this solution `O(n^2)`. Can we make it better? I don't see any
 signs of using binary search like algorithm, so it's probably a `O(n)` problem. Hmmm... `O(n)`? I smell `DP` and `BFS`.

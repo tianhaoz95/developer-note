@@ -15,7 +15,9 @@ For **INHUMAN** description, please check it out on [LeetCode](https://leetcode.
 
 ## Thought No. 1
 
-Hmmm... it seems that we can simply sum up each level and find the maximum.
+Hmmm... it seems that we can simply sum up each level and find the maximum by brute force.
+
+![find it](https://media.giphy.com/media/9L8MMFrx2pe5q/giphy.gif)
 
 ### Implementation
 
@@ -74,3 +76,5 @@ class Solution(object):
 Well done!
 
 ![acceptance](./asset/1161-maximum-level-sum-of-a-binary-tree-acceptance.png)
+
+![done](https://media.giphy.com/media/9Jcw5pUQlgQLe5NonJ/giphy-downsized-large.gif)
