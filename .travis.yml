@@ -3,6 +3,7 @@ jobs:
      - stage: Index pages to Algolia
        language: ruby
        cache: bundler
+       if: branch = master AND type = cron AND repo = tianhaoz95/developer-note
        before_install:
         - gem install bundler
        rvm:
