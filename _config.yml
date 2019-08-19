@@ -84,3 +84,4 @@ analytics:
   google:
     tracking_id: "UA-121674883-3"
     anonymize_ip: false
+include: ["_pages"]
