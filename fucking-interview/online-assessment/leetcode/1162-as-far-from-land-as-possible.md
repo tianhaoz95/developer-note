@@ -14,6 +14,8 @@ Which 0 has the longest distance to the nearest island, and what is that distanc
 
 For **INHUMAN** description, please check it out on [LeetCode](https://leetcode.com/problems/as-far-from-land-as-possible/)
 
+![swimming dog](https://media.giphy.com/media/oX9nVBEBvIMYHvnspF/giphy.gif)
+
 ## Thought No. 1
 
 What if we iterate through all the locations in the water and find where the nearest island is for each of them, and find the maximum?
