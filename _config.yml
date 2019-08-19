@@ -75,8 +75,13 @@ defaults:
       comments: true
       share: true
       related: true
-exclude:
-  - "projects"
+include: [
+    "_pages"
+]
+exclude: [
+    "projects",
+    "vendor"
+]
 paginate: 5
 paginate_path: /page:num/
 twitter:
@@ -90,4 +95,3 @@ analytics:
   google:
     tracking_id: "UA-121674883-3"
     anonymize_ip: false
-include: ["_pages"]
