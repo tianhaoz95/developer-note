@@ -76,3 +76,5 @@ class Solution(object):
 Well done!
 
 ![acceptance](./asset/1161-maximum-level-sum-of-a-binary-tree-acceptance.png)
+
+![done](https://media.giphy.com/media/9Jcw5pUQlgQLe5NonJ/giphy-downsized-large.gif)
