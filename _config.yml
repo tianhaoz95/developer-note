@@ -20,9 +20,9 @@ comments:
 search: true
 search_provider: algolia
 algolia:
-  application_id: RHF9CWKS42
-  index_name: developernote
-  search_only_api_key: 0f0ccf4bdf6df0f00661266862d95480
+  application_id: "RHF9CWKS42"
+  index_name: "developernote"
+  search_only_api_key: "0f0ccf4bdf6df0f00661266862d95480"
   powered_by: true
 author:
   name     : "Jaxon Chiau"
