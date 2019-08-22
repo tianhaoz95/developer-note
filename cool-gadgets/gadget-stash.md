@@ -5,6 +5,10 @@ title: Gadget Stash
 
 A stash for the cool things I see, but not sure where or when they will become useful.
 
+- [ ] [process-wallpaper: use wallpaper to know your processes](https://github.com/anirudhajith/process-wallpaper)
+- [ ] [mediapipe: media pipeline for media ML](https://github.com/google/mediapipe)
+- [ ] [SeetaFace2: zero dependency face matching](https://github.com/seetafaceengine/SeetaFace2)
+- [ ] [GPT2-Chinese: chinese version](https://github.com/Morizeyao/GPT2-Chinese)
 - [ ] [react-diagrams: React flow charts](https://github.com/projectstorm/react-diagrams)
 - [ ] [WeChatRobot: desktop version wechat bot](https://github.com/TonyChen56/WeChatRobot)
 - [ ] [HarmonyOS: Huawei's replacement for Android](https://github.com/Awesome-HarmonyOS/HarmonyOS)
