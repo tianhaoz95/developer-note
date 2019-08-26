@@ -5,6 +5,7 @@ title: Gadget Stash
 
 A stash for the cool things I see, but not sure where or when they will become useful.
 
+- [ ] [WaveFunctionCollapse: let's talk quantum machines](https://github.com/mxgmn/WaveFunctionCollapse)
 - [ ] [process-wallpaper: use wallpaper to know your processes](https://github.com/anirudhajith/process-wallpaper)
 - [ ] [mediapipe: media pipeline for media ML](https://github.com/google/mediapipe)
 - [ ] [SeetaFace2: zero dependency face matching](https://github.com/seetafaceengine/SeetaFace2)
