@@ -15,5 +15,4 @@ jobs:
       run: |
         echo Add other actions to build,
         echo test, and deploy your project.
-    - uses: tianhaoz95/readable-readme@master
       
