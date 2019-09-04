@@ -5,6 +5,9 @@ title: Gadget Stash
 
 A stash for the cool things I see, but not sure where or when they will become useful.
 
+- [ ] [npkill: node modules clean up for whole machine](https://github.com/voidcosmos/npkill)
+- [ ] [mlcourse.ai: yet another machine learning course](https://github.com/Yorko/mlcourse.ai)
+- [ ] [leonsans: fonts written in code](https://github.com/cmiscm/leonsans)
 - [ ] [OpenArkCompiler: can Huawei actually do it?](https://github.com/harmonyos-mirror/OpenArkCompiler)
 - [ ] [DeepFaceLab: looks like it is still in early stage](https://github.com/iperov/DeepFaceLab)
 - [ ] [faceswap: face swapping is back again](https://github.com/deepfakes/faceswap)
