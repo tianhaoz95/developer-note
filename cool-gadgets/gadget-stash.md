@@ -5,6 +5,8 @@ title: Gadget Stash
 
 A stash for the cool things I see, but not sure where or when they will become useful.
 
+- [ ] [mne-python: visualization for neuro-science](https://github.com/mne-tools/mne-python)
+- [ ] [enoki: new generation of C++ vector calculation](https://github.com/mitsuba-renderer/enoki)
 - [ ] [npkill: node modules clean up for whole machine](https://github.com/voidcosmos/npkill)
 - [ ] [mlcourse.ai: yet another machine learning course](https://github.com/Yorko/mlcourse.ai)
 - [ ] [leonsans: fonts written in code](https://github.com/cmiscm/leonsans)
