@@ -5,6 +5,10 @@ title: Gadget Stash
 
 A stash for the cool things I see, but not sure where or when they will become useful.
 
+- [ ] [mlfinlab: machine learning for finance](https://github.com/hudson-and-thames/mlfinlab)
+- [ ] [GENTRL: Generative Tensorial Reinforcement Learning model](https://github.com/insilicomedicine/GENTRL)
+- [ ] [ckiptagger: chinese nlp tagger](https://github.com/ckiplab/ckiptagger)
+- [ ] [starship: yet another terminal](https://github.com/starship/starship)
 - [ ] [mne-python: visualization for neuro-science](https://github.com/mne-tools/mne-python)
 - [ ] [enoki: new generation of C++ vector calculation](https://github.com/mitsuba-renderer/enoki)
 - [ ] [npkill: node modules clean up for whole machine](https://github.com/voidcosmos/npkill)
