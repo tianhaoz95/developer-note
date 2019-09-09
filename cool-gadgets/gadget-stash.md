@@ -5,6 +5,9 @@ title: Gadget Stash
 
 A stash for the cool things I see, but not sure where or when they will become useful.
 
+- [ ] [chakra-ui: yet another react ui](https://github.com/chakra-ui/chakra-ui/tree/master/packages/chakra-ui)
+- [ ] [tf-quant-finance: tf finanical models](https://github.com/google/tf-quant-finance)
+- [ ] [daml: yet another smart contract language](https://daml.com/)
 - [ ] [tone.js: make music with JS](https://tonejs.github.io/)
 - [ ] [mlfinlab: machine learning for finance](https://github.com/hudson-and-thames/mlfinlab)
 - [ ] [GENTRL: Generative Tensorial Reinforcement Learning model](https://github.com/insilicomedicine/GENTRL)
