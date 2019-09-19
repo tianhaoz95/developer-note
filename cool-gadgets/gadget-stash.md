@@ -5,6 +5,7 @@ title: Gadget Stash
 
 A stash for the cool things I see, but not sure where or when they will become useful.
 
+- [ ] [pytorch-transformers: pytorch NLP models](https://github.com/huggingface/pytorch-transformers)
 - [ ] [NeMo: toolkit for conversational AI](https://github.com/NVIDIA/NeMo)
 - [ ] [appwrite: self hosted alternative to firebase](https://github.com/appwrite/appwrite)
 - [ ] [chakra-ui: yet another react ui](https://github.com/chakra-ui/chakra-ui/tree/master/packages/chakra-ui)
