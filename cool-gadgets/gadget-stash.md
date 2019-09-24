@@ -5,6 +5,7 @@ title: Gadget Stash
 
 A stash for the cool things I see, but not sure where or when they will become useful.
 
+- [ ] [gitea: self-hosted github](https://github.com/go-gitea/gitea)
 - [ ] [espresso: end to end voice recognition framework](https://github.com/freewym/espresso)
 - [ ] [multi-agent-emergence-environments: a new toy from OpenAI](https://github.com/openai/multi-agent-emergence-environments)
 - [ ] [pytorch-transformers: pytorch NLP models](https://github.com/huggingface/pytorch-transformers)
