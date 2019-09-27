@@ -5,6 +5,9 @@ title: Gadget Stash
 
 A stash for the cool things I see, but not sure where or when they will become useful.
 
+- [ ] [fastlane: fast IOS and Android app releasing](https://github.com/fastlane/fastlane)
+- [ ] [wxpy: wechat python API](https://github.com/youfou/wxpy)
+- [ ] [nlp-roadmap](https://github.com/graykode/nlp-roadmap)
 - [ ] [gitea: self-hosted github](https://github.com/go-gitea/gitea)
 - [ ] [espresso: end to end voice recognition framework](https://github.com/freewym/espresso)
 - [ ] [multi-agent-emergence-environments: a new toy from OpenAI](https://github.com/openai/multi-agent-emergence-environments)
