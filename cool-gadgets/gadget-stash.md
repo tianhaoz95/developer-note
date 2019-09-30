@@ -5,6 +5,7 @@ title: Gadget Stash
 
 A stash for the cool things I see, but not sure where or when they will become useful.
 
+- [ ] [CodeSearchNet: ImageNet for code](https://github.com/github/CodeSearchNet)
 - [ ] [fastlane: fast IOS and Android app releasing](https://github.com/fastlane/fastlane)
 - [ ] [wxpy: wechat python API](https://github.com/youfou/wxpy)
 - [ ] [nlp-roadmap](https://github.com/graykode/nlp-roadmap)
