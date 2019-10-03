@@ -1,4 +1,7 @@
-# Web Development
+---
+layout: single
+title: Web Development
+---
 
 ## Table of Content
 
