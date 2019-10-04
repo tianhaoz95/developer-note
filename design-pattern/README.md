@@ -1,5 +1,6 @@
 ---
 layout: single
+title: Design Pattern
 ---
 
-# Design Pattern
+coming soon...
