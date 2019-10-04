@@ -1,4 +1,7 @@
-# Interesting Projects
+---
+layout: single
+title: Interesting Projects
+---
 
 ## [shepherd](https://github.com/shipshapecode/shepherd)
 
