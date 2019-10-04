@@ -5,6 +5,7 @@ title: Gadget Stash
 
 A stash for the cool things I see, but not sure where or when they will become useful.
 
+- [ ] [streamlit: the fastest way to make ML apps?](https://github.com/streamlit/streamlit)
 - [ ] [cypress: JS end to end testing for any project](https://github.com/cypress-io/cypress)
 - [ ] [impersonator: make pretty models move](https://github.com/svip-lab/impersonator)
 - [ ] [CodeSearchNet: ImageNet for code](https://github.com/github/CodeSearchNet)
