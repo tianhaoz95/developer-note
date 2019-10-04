@@ -39,6 +39,8 @@ Most developers are spending a significant amount of their time trying to find s
 
 For now, simply open a pull request and I will review it myself.
 
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/tianhaoz95/developer-note)
+
 ## Meme of the Day
 
 ![meme of the day](https://media.giphy.com/media/gHWaAs1YM1jmnp6bLB/giphy.gif)
