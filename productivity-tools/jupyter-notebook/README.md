@@ -1,4 +1,7 @@
-# Jupyter Notebook
+---
+layout: single
+title: Jupyter Notebook
+---
 
 ## Start in Virtual Environment
 

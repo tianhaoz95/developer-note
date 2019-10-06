@@ -1,4 +1,7 @@
-# Developer Swiss Army Knife
+---
+layout: single
+title: Developer Swiss Army Knife
+---
 
 ## Hyper: The customizable terminal
 

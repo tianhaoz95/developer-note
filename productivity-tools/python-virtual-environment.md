@@ -1,4 +1,7 @@
-# Python Virtual Environment
+---
+layout: single
+title: Python Virtual Environment
+---
 
 ## Vanilla Virtual Environment
 
