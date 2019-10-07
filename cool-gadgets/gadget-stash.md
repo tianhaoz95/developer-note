@@ -5,6 +5,10 @@ title: Gadget Stash
 
 A stash for the cool things I see, but not sure where or when they will become useful.
 
+- [ ] [TensorFlow-2.x-Tutorials: tf tutorial in Chinese](https://github.com/dragen1860/TensorFlow-2.x-Tutorials)
+- [ ] [create-social-network: create SN with one command, but how much can I custom it?](https://github.com/udilia/create-social-network)
+- [ ] [imagededup: image de-dup with ML](https://github.com/idealo/imagededup)
+- [ ] [timy-messenger: Flutter group chat app (learn Flutter)](https://github.com/janoodleFTW/timy-messenger)
 - [ ] [streamlit: the fastest way to make ML apps?](https://github.com/streamlit/streamlit)
 - [ ] [cypress: JS end to end testing for any project](https://github.com/cypress-io/cypress)
 - [ ] [impersonator: make pretty models move](https://github.com/svip-lab/impersonator)
