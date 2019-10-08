@@ -18,7 +18,9 @@ comments:
   disqus:
     shortname: "jaxon-chiaus-developer-note"
 search: true
-search_provider: algolia
+search_provider: google
+google:
+  search_engine_id: 003801968066465582036:hzclvvndekb
 algolia:
   application_id: "RHF9CWKS42"
   index_name: "developernote"
