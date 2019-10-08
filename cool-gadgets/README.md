@@ -14,7 +14,7 @@ Cool Gadget means some cool stuff that we are exploring but not yet sure where i
 
 ## Words
 
-[Here] are some good pieces of words that can guide us through some decision making.
+[Here](./wit.md) are some good pieces of words that can guide us through some decision making.
 
 ---
 
