@@ -1,1 +1,0 @@
-# Tensorflow 2.0 Learning Note
