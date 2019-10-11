@@ -5,6 +5,7 @@ title: Gadget Stash
 
 A stash for the cool things I see, but not sure where or when they will become useful.
 
+- [ ] [n8n: automate everything with node](https://github.com/n8n-io/n8n)
 - [ ] [TensorFlow-2.x-Tutorials: tf tutorial in Chinese](https://github.com/dragen1860/TensorFlow-2.x-Tutorials)
 - [ ] [create-social-network: create SN with one command, but how much can I custom it?](https://github.com/udilia/create-social-network)
 - [ ] [imagededup: image de-dup with ML](https://github.com/idealo/imagededup)
