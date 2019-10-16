@@ -6,4 +6,6 @@ toc: true
 toc_sticky: true
 ---
 
-SWAG: scientific wild-ass guess
+SWAG: Scientific Wild-Ass Guess
+
+![swag cat meme](./assets/swag-cat-meme.jpg)
