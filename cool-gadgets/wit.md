@@ -6,6 +6,10 @@ toc: true
 toc_sticky: true
 ---
 
+## Start-ups
+
+> "Everybody has a plan until they get punched in the mouth." - Mike Tyson
+
 ## Product Design
 
 > "If you’re not embarrassed by the first version of your product, you’ve launched too late." - LinkedIn co-founder, Reid Hoffman
