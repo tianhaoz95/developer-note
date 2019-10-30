@@ -1,6 +1,8 @@
 ---
 layout: single
 title: Interesting Projects
+comments: true
+author_profile: true
 ---
 
 ## [shepherd](https://github.com/shipshapecode/shepherd)

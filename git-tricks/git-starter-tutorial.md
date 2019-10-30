@@ -1,6 +1,8 @@
 ---
 layout: single
 title: Git Starter Tutorial
+comments: true
+author_profile: true
 ---
 
 ```bash

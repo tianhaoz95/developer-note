@@ -1,6 +1,8 @@
 ---
 layout: single
 title: Developer Swiss Army Knife
+comments: true
+author_profile: true
 ---
 
 ## Hyper: The customizable terminal

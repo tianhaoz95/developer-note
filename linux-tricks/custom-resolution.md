@@ -1,6 +1,8 @@
 ---
 layout: single
 title: Custom Resolution
+comments: true
+author_profile: true
 ---
 
 ```bash

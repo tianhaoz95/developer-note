@@ -1,8 +1,9 @@
 ---
 layout: single
+title: Language Tricks
+comments: true
+author_profile: true
 ---
-
-# Language Tricks
 
 * [C++ Tricks](./cpp/README.md)
 * [Javascript Tricks](./javascript/README.md)

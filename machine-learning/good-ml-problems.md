@@ -1,6 +1,8 @@
 ---
 layout: single
 title: What are good Machine Learning problems?
+comments: true
+author_profile: true
 ---
 
 Thanks to the article [How to Automate Tasks on GitHub With Machine Learning for Fun and Profit](https://towardsdatascience.com/mlapp-419f90e8f007)

@@ -1,6 +1,8 @@
 ---
 layout: single
 title: Productivity Tools
+comments: true
+author_profile: true
 ---
 
 ## Table of Content

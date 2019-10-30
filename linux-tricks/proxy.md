@@ -1,6 +1,8 @@
 ---
 layout: single
 title: Proxy
+comments: true
+author_profile: true
 ---
 
 The reason why we hate IT.

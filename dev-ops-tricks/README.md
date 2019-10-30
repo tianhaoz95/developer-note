@@ -1,6 +1,8 @@
 ---
 layout: single
 title: DevOps Tricks
+comments: true
+author_profile: true
 ---
 
 ## Table of Content

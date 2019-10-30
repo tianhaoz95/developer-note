@@ -3,6 +3,7 @@ layout: single
 title: Git Tricks
 comments: true
 share: true
+author_profile: true
 ---
 
 ## Table of Content

@@ -1,6 +1,8 @@
 ---
 layout: single
 title: Jupyter Notebook
+comments: true
+author_profile: true
 ---
 
 ## Start in Virtual Environment

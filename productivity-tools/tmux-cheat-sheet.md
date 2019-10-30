@@ -1,6 +1,8 @@
 ---
 layout: single
 title: tmux cheat sheet
+comments: true
+author_profile: true
 ---
 
 ## How to automatically login existing session

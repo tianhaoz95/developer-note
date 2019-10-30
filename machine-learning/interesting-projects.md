@@ -1,6 +1,8 @@
 ---
 layout: single
 title: Interesting Machine Learning Projects
+comments: true
+author_profile: true
 ---
 
 ## SPADE

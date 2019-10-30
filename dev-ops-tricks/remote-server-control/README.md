@@ -1,6 +1,8 @@
 ---
 layout: single
 title: Remote Server Control (BMC)
+comments: true
+author_profile: true
 ---
 
 > We all hate it when that damn machine is in a lab that is a quarter miles away - Jaxon Chiau

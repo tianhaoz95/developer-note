@@ -1,6 +1,8 @@
 ---
 layout: single
 title: Web Dev Services
+comments: true
+author_profile: true
 ---
 
 ## Zeit Now

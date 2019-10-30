@@ -1,8 +1,9 @@
 ---
 layout: single
+comments: true
+author_profile: true
+title: Create npm Package
 ---
-
-# Create `npm` package
 
 [Official documentation on how to create a `npm` package](https://docs.npmjs.com/creating-node-js-modules)
 

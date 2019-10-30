@@ -1,6 +1,8 @@
 ---
 layout: single
 title: How to add a new branch from upstream
+comments: true
+author_profile: true
 ---
 
 ```bash

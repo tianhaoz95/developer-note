@@ -1,6 +1,8 @@
 ---
 layout: single
 title: Vim Cheat Sheet
+comments: true
+author_profile: true
 ---
 
 ## Automatically Indent Lines

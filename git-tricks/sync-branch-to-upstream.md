@@ -1,6 +1,8 @@
 ---
 layout: single
 title: How to sync a branch to upstream
+comments: true
+author_profile: true
 ---
 
 ```bash

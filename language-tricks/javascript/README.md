@@ -1,8 +1,9 @@
 ---
 layout: single
+title: Javascript
+comments: true
+author_profile: true
 ---
-
-# Javascript
 
 ## Table of Content
 

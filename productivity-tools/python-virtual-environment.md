@@ -1,6 +1,8 @@
 ---
 layout: single
 title: Python Virtual Environment
+comments: true
+author_profile: true
 ---
 
 ## Vanilla Virtual Environment

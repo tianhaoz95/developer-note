@@ -1,6 +1,8 @@
 ---
 layout: single
 title: Here is your sexy .bashrc file
+comments: true
+author_profile: true
 ---
 
 ## Corporate Proxy
