@@ -5,6 +5,10 @@ title: Gadget Stash
 
 A stash for the cool things I see, but not sure where or when they will become useful.
 
+- [ ] [HelloGitHub: gather interesting GitHub projects](https://github.com/521xueweihan/HelloGitHub)
+- [ ] [DevOps-Guide: devops handbook](https://github.com/Tikam02/DevOps-Guide)
+- [ ] [onefetch: GitHub stats from terminal](https://github.com/o2sh/onefetch)
+- [ ] [zero: 3D rendering in terminal](https://github.com/sinclairzx81/zero)
 - [ ] [zipline: trading library](https://github.com/quantopian/zipline)
 - [ ] [kubernetes-basicLearning: learn kubernetes](https://github.com/knrt10/kubernetes-basicLearning)
 - [ ] [n8n: automate everything with node](https://github.com/n8n-io/n8n)
