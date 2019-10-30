@@ -3,6 +3,8 @@ layout: single
 title: Gym
 comments: true
 author_profile: true
+toc: true
+toc_sticky: true
 ---
 
 ## Monday
