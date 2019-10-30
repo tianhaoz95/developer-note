@@ -16,6 +16,7 @@ toc_sticky: true
 
 * [Warm Up](./database/warm-up-1.md)
 * [Chest](./database/chest-1.md)
+* [Tricep](./database/tricep-1.md)
 
 ## Wednesday
 
