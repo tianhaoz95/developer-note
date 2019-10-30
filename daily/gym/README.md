@@ -10,10 +10,11 @@ toc_sticky: true
 ## Monday
 
 <iframe
-  width="640"
-  height="360"
-  src="https://youtu.be/89e518dl4I8"
+  width="806"
+  height="453"
+  src="https://www.youtube.com/embed/89e518dl4I8"
   frameborder="0"
+  allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
   allowfullscreen>
 </iframe>
 
