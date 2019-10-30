@@ -9,36 +9,28 @@ toc_sticky: true
 
 ## Monday
 
-### Chest workout
-
-<iframe
-  width="806"
-  height="453"
-  src="https://www.youtube.com/embed/89e518dl4I8"
-  frameborder="0"
-  allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
-  allowfullscreen>
-</iframe>
-
-### Tricep workout
-
-<iframe
-  width="806"
-  height="453"
-  src="https://www.youtube.com/embed/tMyFe-IL7Ks"
-  frameborder="0"
-  allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
-  allowfullscreen>
-</iframe>
+* [Leg](./database/leg-1.md)
 
 ## Tuesday
 
+* [Chest](./database/chest-1.md)
+
 ## Wednesday
+
+* [Bicep](./database/bicep-1.md)
 
 ## Thursday
 
+* [Shoulder](./database/shoulder-1.md)
+
 ## Friday
+
+* [Abs](./database/abs-1.md)
 
 ## Saturday
 
+* [Cardio](./database/cardio-1.md)
+
 ## Friday
+
+* [Cardio](./database/cardio-2.md)
