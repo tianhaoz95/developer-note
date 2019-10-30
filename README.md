@@ -22,6 +22,7 @@ Most developers are spending a significant amount of their time trying to find s
 
 ## Table of Content
 
+* [Daily](./daily/README.md)
 * [Git Tricks](./git-tricks/README.md)
 * [Linux Tricks](./linux-tricks/README.md)
 * [Machine Learning](./machine-learning/README.md)
