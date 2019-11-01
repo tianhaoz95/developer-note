@@ -5,6 +5,8 @@ title: Gadget Stash
 
 A stash for the cool things I see, but not sure where or when they will become useful.
 
+- [ ] [README-template.md: README best practices](https://github.com/scottydocs/README-template.md)
+- [ ] [SinGAN: random image generation GAN](https://github.com/tamarott/SinGAN)
 - [ ] [HelloGitHub: gather interesting GitHub projects](https://github.com/521xueweihan/HelloGitHub)
 - [ ] [DevOps-Guide: devops handbook](https://github.com/Tikam02/DevOps-Guide)
 - [ ] [onefetch: GitHub stats from terminal](https://github.com/o2sh/onefetch)
