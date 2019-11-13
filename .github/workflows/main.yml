@@ -10,7 +10,7 @@ jobs:
     steps:
     - uses: actions/checkout@v1
     - name: Readable Readme
-      uses: tianhaoz95/readable-readme@v0.1.5-alpha
+      uses: tianhaoz95/readable-readme@v0.1.6-alpha
       env:
         RRLOG: true
       with:
